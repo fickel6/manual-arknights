@@ -1,0 +1,50 @@
+[
+  {
+    "count": "1",
+    "name": "Chen",
+    "category": [
+      "6 star character"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "key item is2 e2",
+    "category": [
+      "is2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "floor2 key is2",
+    "category": [
+      "key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "floor3 key is2",
+    "category": [
+      "key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "floor4 key is2",
+    "category": [
+      "key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "floor5 key is2",
+    "category": [
+      "key"
+    ],
+    "progression": true
+  }
+]

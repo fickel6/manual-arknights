@@ -1,0 +1,55 @@
+[
+  {
+    "name": "floor1 is2",
+    "region": "is2",
+    "category": [
+      "floor"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "key"
+    ]
+  },
+  {
+    "name": "floor2 is2",
+    "region": "is2",
+    "category": [
+      "floor"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": [
+      "key"
+    ]
+  },
+  {
+    "name": "floor3 is2",
+    "region": "is2",
+    "category": [
+      "floor"
+    ],
+    "requires": "|floor3 key is2| AND |floor2 key is2|",
+    "place_item_category": [
+      "key"
+    ]
+  },
+  {
+    "name": "floor4 is2",
+    "region": "is2",
+    "category": [
+      "floor"
+    ],
+    "requires": "|floor4 key is2| AND |floor3 key is2| AND |floor2 key is2|",
+    "place_item_category": [
+      "key"
+    ]
+  },
+  {
+    "name": "floor5 is2",
+    "region": "is2",
+    "category": [],
+    "requires": "|floor5 key is2| AND |floor4 key is2| AND |floor3 key is2| AND |floor2 key is2|",
+    "place_item_category": [
+      "key"
+    ]
+  }
+]
