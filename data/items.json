@@ -1,11 +1,1082 @@
 [
   {
     "count": "1",
-    "name": "Chen",
+    "name": "Aak",
     "category": [
-      "6 star character"
+      "character",
+      "6 star"
     ],
     "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Angelina",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Archetto",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ascalon",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ash",
+    "category": [
+      "character",
+      "6 star",
+      "limited",
+      "crossover"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Bagpipe",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Blaze",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Blaze the Igniting Spark",
+    "category": [
+      "character",
+      "6 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Blemishine",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Carnelian",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ceobe",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ch'en",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ch'en the Holungday",
+    "category": [
+      "character",
+      "6 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Chongyue",
+    "category": [
+      "character",
+      "6 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Civilight Eterna",
+    "category": [
+      "character",
+      "6 star", 
+      "wellfare"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Crownslayer",
+    "category": [
+      "character",
+      "6 star",
+      "wellfare"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Degenbrecher",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Dorothty",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Dusk",
+    "category": [
+      "character",
+      "6 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ebenholz",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ela",
+    "category": [
+      "character",
+      "6 star",
+      "crossover",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Entelechia",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Eunectes",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Executor the Ex Foedere",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Exusiai",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "exusiai the New Covenant",
+    "category": [
+      "character",
+      "6 star", 
+      "alter",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Eyjafjalla",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Eyjafjalla the Hvit Aska",
+    "category": [
+      "character",
+      "6 star",
+      "limited",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Fartooth",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Fiametta",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Flametail",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Gavial the Invincible",
+    "category": [
+      "character",
+      "6 star",
+      "limited",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Gladiia",
+    "category": [
+      "character",
+      "6 star",
+      "wellfare"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Gnosis",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Goldenglow",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Hellagur",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Hoederer",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Horn",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Hoshiguma",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ifrit",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ines",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Irene",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Jessica the Liberated",
+    "category": [
+      "character",
+      "6 star",
+      "limited",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Kalt'tsit",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Kirin R Yato",
+    "category": [
+      "character",
+      "6 star",
+      "alter",
+      "crossover",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Lappland the Decadenza",
+    "category": [
+      "character",
+      "6 star",
+      "limited",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Lee",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Leizi the Thunderbringer",
+    "category": [
+      "character",
+      "6 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Lemuen",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Lin",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ling",
+    "category": [
+      "character",
+      "6 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Logos",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Magallan",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Marcille",
+    "category": [
+      "character",
+      "6 star",
+      "crossover"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mizuki",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mon3tr",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mostima",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mountain",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mudrock",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Muelsyse",
+    "category": [
+      "character",
+      "6 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mlynar",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Narantuya",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Nearl the Radiant Knight",
+    "category": [
+      "character",
+      "6 star",
+      "limited",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Necrass",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Nian",
+    "category": [
+      "character",
+      "6 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Nightingale",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Nymph",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Pallas",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Passenger",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Penance",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Pepe",
+    "category": [
+      "character",
+      "6 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Phantom",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Pozëmka",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Qiubai",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Raidian",
+    "category": [
+      "character",
+      "6 star",
+      "is6",
+      "wellfare"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ray",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Reed the Flame Shadow",
+    "category": [
+      "character",
+      "6 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Rosa",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Rosmontis",
+    "category": [
+      "character",
+      "6 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Saga",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Saileach",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Sankta Miksaparato",
+    "category": [
+      "character",
+      "6 star",
+      "wellfare"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Saria",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Schwarz",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Shining",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Siege",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Silence the Paradigmatic",
+    "category": [
+      "character",
+      "6 star",
+      "limited",
+      "wellfare"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "SilverAsh",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Skadi",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Skadi the Corrupting Heart",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Specter The Unchained",
+    "category": [
+      "character",
+      "6 star",
+      "alter",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Stainless",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Surtr",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Suzuran",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Swire the Elegant Wit",
+    "category": [
+      "character",
+      "6 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Texas the Omertosa",
+    "category": [
+      "character",
+      "6 star",
+      "limited",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Thorns",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Thorns the Lodestar",
+    "category": [
+      "character",
+      "6 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Tragodia",
+    "category": [
+      "character",
+      "6 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Typhon",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ulpianus",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Vigil",
+    "category": [
+      "character",
+      "6 star",
+      "wellfare"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Vina Victoria",
+    "category": [
+      "character",
+      "6 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Virtuosa",
+    "category": [
+      "character",
+      "6 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Viviana",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Vulpisfoglia",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "W",
+    "category": [
+      "character",
+      "6 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Wisadel",
+    "category": [
+      "character",
+      "6 star",
+      "limited",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Yu",
+    "category": [
+      "character",
+      "6 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Zuo Le",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Haruka",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Hoshiguma the Breacher",
+    "category": [
+      "character",
+      "6 star",
+      "limited",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "key item is2 e2",
+    "category": [
+      "is2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "key item is2 e2",
+    "category": [
+      "is2"
+    ],
+    "progression": true
   },
   {
     "count": 1,

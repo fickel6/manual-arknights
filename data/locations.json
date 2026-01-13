@@ -46,10 +46,24 @@
   {
     "name": "floor5 is2",
     "region": "is2",
-    "category": [],
+    "category": [
+      "floor"
+    ],
     "requires": "|floor5 key is2| AND |floor4 key is2| AND |floor3 key is2| AND |floor2 key is2|",
     "place_item_category": [
       "key"
+    ]
+  },
+  {
+    "name": "floor6 is2",
+    "region": "is2",
+    "category": [
+      "floor"
+    ],
+    "requires": "(|floor6 key is2| AND (Abrupt Realization OR Act 1)) AND |floor5 key is2| AND |floor4 key is2| AND |floor3 key is2| AND |floor2 key is2|",
+    "place_item_category": [
+      "key",
+      "6 star"
     ]
   }
 ]

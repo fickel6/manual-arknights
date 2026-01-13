@@ -14,5 +14,9 @@
   "is5": {
     "connects_to": [],
     "requires": []
+  },
+  "is6": {
+    "connects_to": [],
+    "requires": []
   }
 }
