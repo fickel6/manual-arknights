@@ -1063,10 +1063,1644 @@
     "useful": true
   },
   {
+    "count": "1",
+    "name": "Absinthe",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Akafuyu",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Alanna",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Almond",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Amiya",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Guard Amiya",
+    "category": [
+      "character",
+      "5 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Medic Amiya",
+    "category": [
+      "character",
+      "5 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Andreana",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Aosta",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "April",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Aroma",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Asbestos",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ashlock",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Astesia",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Astgenne",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Aurora",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ayerscape",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Bassline",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Beeswax",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Bena",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Bibeak",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Bison",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Blacknight",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Blitz",
+    "category": [
+      "character",
+      "5 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Blue Poison",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Bobbing",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Breeze",
+    "category": [
+      "character",
+      "5 star", 
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Brigid",
+    "category": [
+      "character",
+      "5 star",
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Broca",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Bryophyta",
+    "category": [
+      "character",
+      "5 star",
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Cantabile",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Catherine",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Cement",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ceylon",
+    "category": [
+      "character",
+      "5 star",
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Chiave",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Chilchuck",
+    "category": [
+      "character",
+      "5 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Cliffheart",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Coldshot",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Corroserum",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Croissant",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Czerny",
+    "category": [
+      "character",
+      "5 star",
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Dagda",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Delphine",
+    "category": [
+      "character",
+      "5 star",
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Diamante",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Doc",
+    "category": [
+      "character",
+      "5 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Elysium",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Enforcer",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Erato",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "executor",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Fang the Fire-Sharpened",
+    "category": [
+      "character",
+      "5 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "FEater",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Figurino",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Firewatch",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Firewhistle",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Flamebringer",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Flint",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Folinic",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Franka",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Frost",
+    "category": [
+      "character",
+      "5 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Fuze",
+    "category": [
+      "character",
+      "5 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Glaucus",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Gracebearer",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Grain Buds",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Grani",
+    "category": [
+      "character",
+      "5 star",
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "GreyThroat",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Greyy the lightningbearer",
+    "category": [
+      "character",
+      "5 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Harmonie",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Harold",
+    "category": [
+      "character",
+      "5 star",
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Heavyrain",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Heidi",
+    "category": [
+      "character",
+      "5 star",
+      "Free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Hibiscus the Purifier",
+    "category": [
+      "character",
+      "5 star", 
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Honeyberry",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Highmore",
+    "category": [
+      "character",
+      "5 star",
+      "is3"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Hung",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Iana",
+    "category": [
+      "character",
+      "5 star",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Indra",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Insider",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Iris",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Istina",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Jieyun",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Kafka",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Kazemaru",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Kestrel",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Kichisei",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Kirara",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Kjera",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Kroos the Ken Glint",
+    "category": [
+      "character",
+      "5 star",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "La Pluma",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Laios",
+    "category": [
+      "character",
+      "6 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Lappland",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Lava the Purgatory",
+    "category": [
+      "character",
+      "5 star", 
+      "free",
+      "alter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Leizi",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Leonhardt",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Leto",
+    "category": [
+      "character",
+      "5 star",
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Liskarm",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Lucilla",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Lunacub",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Manticore",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Matsukiri",
+    "category": [
+      "character",
+      "5 star",
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mayer",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Melanite",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Meteorite",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Minimalist",
+    "category": [
+      "character",
+      "5 star", 
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mint",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Miss.Christine",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mitm",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Morgan",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mr. Nothing",
+    "category": [
+      "character",
+      "4 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Mulberry",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Nearl",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Nightmare",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Nine-Colored Deer",
+    "category": [
+      "character",
+      "5 star", 
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Nowell",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Odda",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Paprika",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Papyrus",
+    "category": [
+      "character",
+      "5 star", 
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Philae",
+    "category": [
+      "character",
+      "5 star", 
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Platinum",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Poncirus",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Pramanix",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Projekt Red",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Provence",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Proviso",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ptillopsis",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Puzzle",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Qanipalaat",
+    "category": [
+      "character",
+      "5 star", 
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Qeurcus",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Rathalos S Noir Corne",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Record Keeper",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Reed",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Robin",
+    "category": [
+      "character",
+      "6 star",
+      "free"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Rockrock",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Rose Salt",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Sand Reckoner",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Santalla",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Savage",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Scene",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Senshi",
+    "category": [
+      "character",
+      "5 star", 
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Senshi",
+    "category": [
+      "character",
+      "5 star", 
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Sesa",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Shalem",
+    "category": [
+      "character",
+      "5 star", 
+      "is2"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Shamare",
+    "category": [
+      "character",
+      "5 star", 
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Sideroca",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Silence",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Skyfire",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Snowsant",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Sora",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Specter",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Spuria",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Surfer",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Swire",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Tachanka",
+    "category": [
+      "character",
+      "5 star", 
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Tecno",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Tequilla",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Texas",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Tin man",
+    "category": [
+      "character",
+      "5 star", 
+      "free",
+      "is3"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Tippi",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Toddifons",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Tomimi",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Senshi",
+    "category": [
+      "character",
+      "5 star", 
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Tsukinogi",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Tuye",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Underflow",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Valarqvin",
+    "category": [
+      "character",
+      "5 star",
+      "is3"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Vendela",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Vulcan",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Waai Fu",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Wanqing",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Warfarin",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Warfarin",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Whislash",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Wisperain",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Wilde mane",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Wind Chimes",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Windflit",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Fulfenite",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Xingzzhu",
+    "category": [
+      "character",
+      "5 star"
+    ],
+    "useful": true
+  },
+  {
     "count": 1,
     "name": "key item is2 e2",
     "category": [
-      "is2"
+      "key"
     ],
     "progression": true
   },
@@ -1074,7 +2708,7 @@
     "count": 1,
     "name": "key item is2 e2",
     "category": [
-      "is2"
+      "key"
     ],
     "progression": true
   },
@@ -1082,7 +2716,7 @@
     "count": 1,
     "name": "key item is2 e2",
     "category": [
-      "is2"
+      "key"
     ],
     "progression": true
   },
