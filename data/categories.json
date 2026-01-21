@@ -1,1 +1,8 @@
-{}
+{
+    "6 star":{
+        "yaml_option": ["enable_6_stars"]
+    },
+    "5 star":{
+        "yaml_option": ["enable_5_stars"]
+    }
+}
