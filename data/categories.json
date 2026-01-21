@@ -1,5 +1,6 @@
 {
     "6 star":{
+        "_comment": "categories are for hiding certain categories for the player or enabling/disabling categories",
         "yaml_option": ["enable_6_stars"]
     },
     "5 star":{

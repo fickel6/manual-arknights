@@ -1,7 +1,10 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "arknights",
+  "game": "Arknights",
   "creator": "Fickel",
   "filler_item_name": "Filler",
-  "starting_items": []
+  "starting_items": [],
+  "_comment": "TODO: death link as an option",
+  "death_link": false
+
 }
