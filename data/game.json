@@ -2,8 +2,25 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "Arknights",
   "creator": "Fickel",
-  "filler_item_name": "Filler",
-  "starting_items": [],
+  "filler_item_name": "Originite Prime",
+  "starting_items": [
+    {
+      "item_categories": ["start_floor"],
+      "random": 1
+    },
+    {
+      "item_categories": ["starting_squads"],
+      "random": 1
+    },
+    {
+      "_comment": "add logic for starting squads",
+      "if_previous_item": ["squad"],
+      "item_categories": ["4 star categorie"]
+    },
+    {
+      "_comment": "should also do the starting 6 stars here??"
+    }
+  ],
   "_comment": "TODO: death link as an option",
   "death_link": false
 
