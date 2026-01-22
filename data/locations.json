@@ -1,9 +1,22 @@
 [
   {
+    "name": "invest coins",
+    "prehint": true,
+    "requires": "|saved_coins|:40",
+    "hint_entrance": "available in shops"
+  },
+  {
+    "name": "get coins",
+    "prehint": true,
+    "requires": "|got_coins|:20",
+    "hint_entrance": "available in shops"
+  },
+  {
     "name": "floor1 is2",
     "region": "is2",
     "category": [
-      "floor"
+      "floor",
+      "start_floor"
     ],
     "requires": [],
     "place_item_category": [
@@ -52,7 +65,8 @@
     "requires": "|floor5 key is2| AND |floor4 key is2| AND |floor3 key is2| AND |floor2 key is2|",
     "place_item_category": [
       "key"
-    ]
+    ],
+    "victory": true
   },
   {
     "name": "floor6 is2",
@@ -64,6 +78,7 @@
     "place_item_category": [
       "key",
       "6 star"
-    ]
+    ],
+    "victory": true
   }
 ]

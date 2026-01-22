@@ -2697,12 +2697,25 @@
     "useful": true
   },
   {
-    "count": 1,
-    "name": "key item is2 e2",
+    "_comment": "is a location for a check, but the coins should be a item. place it here??",
+    "count": 50,
+    "name": "saved_coins",
+    "local": true,
+    "filler": true
+  },
+  {
+    "_comment": "is a location for a check, but the coins should be a item. place it here??",
+    "count": 25,
+    "name": "got coins",
+    "local": true,
+    "filler": true
+  },
+  {
+    "name": "is2 key",
+    "region": "is2",
     "category": [
-      "key"
-    ],
-    "progression": true
+      "region key"
+    ]
   },
   {
     "count": 1,
@@ -2714,7 +2727,15 @@
   },
   {
     "count": 1,
-    "name": "key item is2 e2",
+    "name": "key item is2 e3",
+    "category": [
+      "key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "key item is2 e3",
     "category": [
       "key"
     ],
