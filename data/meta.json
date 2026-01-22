@@ -8,13 +8,15 @@
             "https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/world%20api.md#webworld-class"
         ],
         "apworld_description": [
-            "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.",
-            "This allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.",
-            "The key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,",
-            "the player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
+            "Arknights is a tower defence gacha game. This manual is focused on the gamemode Integrated Strategies(IS)",
+            "IS is a roquelike variant of the normal gameplay. Get operators with 'hope' and clear the required ending to win!",
+            "checks are every operation stage (including emergency) and every character are items",
+            "some key items to get a ending is also behind a check."
         ],
         "web": {
-            "_comment": "for more info check github https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/world%20api.md#webworld-class",
+            "_comment": [
+                "for more info check github https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/world%20api.md#webworld-class",
+                "is still work in progress"],
             "theme": "grass",
             "bug_report_page": "https://discord.gg/T5bcsVHByx",
             "tutorials": [
@@ -37,5 +39,5 @@
         }
     },
     "_comment_":"Enable the generation of puml diagram of your apworld region and locations for debug purposes",
-    "enable_region_diagram": false
+    "enable_region_diagram": true
 }
