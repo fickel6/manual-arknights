@@ -2697,6 +2697,78 @@
     "useful": true
   },
   {
+    "count": "1",
+    "name": "leader squad",
+    "category": [
+      "squad"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "gathering squad",
+    "category": [
+      "squad"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "support squad",
+    "category": [
+      "squad"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "spearhead sqaud",
+    "category": [
+      "squad"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "tactical assault squad",
+    "category": [
+      "squad"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "tactical fortification squad",
+    "category": [
+      "squad"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "tactical ranged squad",
+    "category": [
+      "squad"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "tactical destruction squad",
+    "category": [
+      "squad"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "First-class squad",
+    "category": [
+      "squad"
+    ],
+    "useful": true
+  },
+  {
     "_comment": "is a location for a check, but the coins should be a item. place it here??",
     "count": 50,
     "name": "saved_coins",
@@ -2719,23 +2791,61 @@
   },
   {
     "count": 1,
-    "name": "key item is2 e2",
+    "_comment": "this is for ending 2 of is2",
+    "name": "Worn Out Puppet",
     "category": [
-      "key"
+      "collectible"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "key item is2 e3",
+    "_comment": "this is for ending 3 of is2",
+    "name": "Dance of the Condemned",
     "category": [
-      "key"
+      "collectible"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "key item is2 e3",
+    "_comment": "this is for ending 3 of is2",
+    "name": "Act 1",
+    "category": [
+      "collectible"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "_comment": "this is for ending 4 of is2",
+    "name": "Mantle of the Wrongly Condemned",
+    "category": [
+      "collectible"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "_comment": "this is for ending 4 of is2",
+    "name": "Stand-in Actor",
+    "category": [
+      "collectible"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "_comment": "this is for ending 4 of is2",
+    "name": "Abrupt Realization",
+    "category": [
+      "collectible"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "is2 key",
     "category": [
       "key"
     ],

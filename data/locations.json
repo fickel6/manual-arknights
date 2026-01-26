@@ -18,10 +18,8 @@
       "floor",
       "start_floor"
     ],
-    "requires": [],
-    "place_item_category": [
-      "key"
-    ]
+    "requires": ["is2 key"],
+    "place_item_category": []
   },
   {
     "name": "floor2 is2",
@@ -30,9 +28,7 @@
       "floor"
     ],
     "requires": "|floor2 key is2|",
-    "place_item_category": [
-      "key"
-    ]
+    "place_item_category": []
   },
   {
     "name": "floor3 is2",
@@ -41,9 +37,7 @@
       "floor"
     ],
     "requires": "|floor3 key is2| AND |floor2 key is2|",
-    "place_item_category": [
-      "key"
-    ]
+    "place_item_category": []
   },
   {
     "name": "floor4 is2",
@@ -52,9 +46,7 @@
       "floor"
     ],
     "requires": "|floor4 key is2| AND |floor3 key is2| AND |floor2 key is2|",
-    "place_item_category": [
-      "key"
-    ]
+    "place_item_category": []
   },
   {
     "name": "floor5 is2",
@@ -63,10 +55,7 @@
       "floor"
     ],
     "requires": "|floor5 key is2| AND |floor4 key is2| AND |floor3 key is2| AND |floor2 key is2|",
-    "place_item_category": [
-      "key"
-    ],
-    "victory": true
+    "place_item_category": []
   },
   {
     "name": "floor6 is2",
@@ -75,10 +64,765 @@
       "floor"
     ],
     "requires": "(|floor6 key is2| AND (Abrupt Realization OR Act 1)) AND |floor5 key is2| AND |floor4 key is2| AND |floor3 key is2| AND |floor2 key is2|",
-    "place_item_category": [
-      "key",
-      "6 star"
+    "place_item_category": []
+  },
+  {
+    "name": "'A date with slugs' clear",
+    "region": "is2",
+    "category": [
+      "stage"
     ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'A date with slugs' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Accident' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Accident' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Beast taming' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Beast taming' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Fight to the death' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Fight to the death' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Gun Salute' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Gun Salute' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Destitute Knight' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Destitute Knight' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'First Come, Last Served' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'First Come, Last Served' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Patrol Squad' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Patrol Squad' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'The Grand Finale' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'The Grand Finale' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Unequal Split' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Unequal Split' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor2 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'A Familiar Face' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'A Familiar Face' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Beast Fighting' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Beast fighting' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Justice' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Justice' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Premiere' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Premiere' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Reform' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Reform' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Sculptor And Statue' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Sculptor And Statue' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|is2 key|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Vintage Transport' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'With the Crowd' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'A Cold Separation' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "boss"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Fatal melodies' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "boss"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Mind the Doors' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "boss"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Terrifying Legends' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "boss"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Theft From Above' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "boss"
+    ],
+    "requires": "|floor3 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'A Dance Together' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'A Dance Together' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Alpine Visitor' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Alpine Visitor' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Bob's beer' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Bob's beer' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Fireworks Show' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Fireworks Show' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Pressing Ahead' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Pressing Ahead' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Shrouded in Clouds' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Shrouded in Clouds' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Traveler of Afar' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Traveler of Afar' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Unending' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Unending' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor4 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Absurd Trickeries' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Absurd Trickeries' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Dangers Abound' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Dangers Abound' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Drone Landing Zone' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Drone Landing Zone' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'From Afar' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'From Afar' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Suprise Factory' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Suprise Factory' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'The Biting Cold' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'The Biting Cold' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'The Night of Ritual' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'The Night of Ritual' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'The Red Mist' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'The Red Mist' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'All I Ask of You' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "boss"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": [],
+    "victory": true
+  },
+  {
+    "name": "'The Point of No Return' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "boss"
+    ],
+    "requires": "|floor5 key is2| AND |Worn Out Puppet|",
+    "place_item_category": [],
+    "victory": true
+  },
+  {
+    "name": "'Sarkaz Desire' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor6 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Sarkaz Desire' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor5 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'Ursus Desire' clear",
+    "region": "is2",
+    "category": [
+      "stage"
+    ],
+    "requires": "|floor6 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "emergency 'Ursus Desire' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "emergency"
+    ],
+    "requires": "|floor6 key is2|",
+    "place_item_category": []
+  },
+  {
+    "name": "'New Chapter' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "boss"
+    ],
+    "requires": "|floor6 key is2| AND |Dance of the Condemned| AND |Act 1|",
+    "place_item_category": [],
+    "victory": true
+  },
+  {
+    "name": "'Twisted Every Way' clear",
+    "region": "is2",
+    "category": [
+      "stage",
+      "boss"
+    ],
+    "requires": "|floor6 key is2| AND |Mantle of the Wrongly Condemned| AND |Stand-in Actor| AND |Abrupt Realization|",
+    "place_item_category": [],
     "victory": true
   }
 ]
