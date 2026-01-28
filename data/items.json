@@ -2784,7 +2784,34 @@
   },
   {
     "name": "is2 key",
-    "region": "is2",
+    "category": [
+      "region key"
+    ]
+  },
+  {
+    "name": "is3 key",
+    
+    "category": [
+      "region key"
+    ]
+  },
+  {
+    "name": "is4 key",
+    
+    "category": [
+      "region key"
+    ]
+  },
+  {
+    "name": "is5 key",
+    
+    "category": [
+      "region key"
+    ]
+  },
+  {
+    "name": "is6 key",
+    
     "category": [
       "region key"
     ]
@@ -2878,6 +2905,14 @@
   {
     "count": 1,
     "name": "floor5 key is2",
+    "category": [
+      "key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "floor6 key is2",
     "category": [
       "key"
     ],

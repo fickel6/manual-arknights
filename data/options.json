@@ -26,45 +26,130 @@
             "type": "Toggle",
             "default": true
         },
-        "Example_Toggle":{
+        "include 6 stars":{
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "include or exclude all six stars from the randomizer",
+                "if excluded (false), you can't play any 6 stars. in all the runs"
             ],
             "type": "Toggle",
-            "default": false,
-            "group": "Example Options"
+            "default": true,
+            "group": "characters options",
+            "visibility": [
+                "template",
+                "simple_ui",
+                "complex_ui",
+                "spoiler"
+            ]
         },
-        "Example_Choice":{
+        "include 5 stars":{
+            "description": [
+                "include or exclude all five stars from the randomizer",
+                "if excluded (false), you can't play any 5 stars. in all the runs"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "characters options",
+            "visibility": [
+                "template",
+                "simple_ui",
+                "complex_ui",
+                "spoiler"
+            ]
+        },
+        "exclude individual 6 stars": {
             "type": "Choice",
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "if include 6 star is true, choose which 6 star should not be included in the randomizer",
+                "reasons for not inlcuding all the characters can be: ",
+                "1. you don't have the character",
+                "2. you don't want to play with him/her ever (to op, or just personal preference)"
             ],
             "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
+                "exu": 0,
+                "mytrle": 0
+            },
+            "aliases": {
+                "you_know_that_purple_one": 1,
+                "the_second_thing_bro": 2
+            },
+            "visibility": [
+                "template",
+                "simple_ui",
+                "complex_ui"
+            ]
         },
-        "Example_Range":{
-            "type": "Range",
+        "include ed1": {
+            "type": "Toggle",
+            "default": true,
+            "description": ["all the itmes and stages for ending 1 will also be randomized"],
+            "group": "Game Options",
+            "visibility": [
+                "template",
+                "simple_ui",
+                "spoiler"
+            ]
+        },
+        "include ed2": {
+            "type": "Toggle",
+            "default": true,
+            "description": ["all the itmes and stages for ending 2 will also be randomized"],
+            "group": "Game Options",
+            "visibility": [
+                "template",
+                "simple_ui",
+                "spoiler"
+            ]
+        },
+        "include ed3": {
+            "type": "Toggle",
+            "default": true,
+            "description": ["all the itmes and stages for ending 3 will also be randomized"],
+            "group": "Game Options",
+            "visibility": [
+                "template",
+                "simple_ui",
+                "spoiler"
+            ]
+        },
+        "include ed4": {
+            "type": "Toggle",
+            "default": true,
+            "description": ["all the itmes and stages for ending 4 will also be randomized"],
+            "group": "Game Options",
+            "visibility": [
+                "template",
+                "simple_ui",
+                "spoiler"
+            ]
+        },
+        "investment of ingots": {
             "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
+                "how many ingots you need to invest to get a check"
             ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 10,
-            "values": {"example": 2},
-            "group": "Example Options"
+            "type": "Range",
+            "range_start": 1,
+            "default": 10,
+            "range_end": 50,
+            "visibility": [
+                "template",
+                "simple_ui",
+                "spoiler"
+            ]
         },
+        "get ingots from investment": {
+            "description": [
+                "how many ingots you need to get from the investment to get a check"
+            ],
+            "type": "Range",
+            "range_start": 1,
+            "default": 5,
+            "range_end": 20,
+            "visibility": [
+                "template",
+                "simple_ui",
+                "spoiler"
+            ]
+        }, 
 
         "DLC_enabled":{
             "display_name": "DLC Enabled",
@@ -75,8 +160,12 @@
                 "complex_ui",
                 "template"
             ],
-            "default": true
+            "default": false,
+            "_comment": [
+                "there is no DLC, only different versions of itself",
+                "when deleted, it still apears, so for now, it stays hidden"
+            ],
+            "hidden": true
         }
     }
-
 }

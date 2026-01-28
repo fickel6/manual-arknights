@@ -69,6 +69,11 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     return item_pool
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
+
+# custom code for choosing which 6 star, 5 star and 4 stars you start with
+# all the possible combinations are depended which IS is starting with
+# IS2: 1 6 star and 2 4 star or lower, 2 5 stars and 1 4 star or lower or 3 4 stars or lower. 
+
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     # Use this hook to remove items from the item pool
     itemNamesToRemove: list[str] = [] # List of item names
