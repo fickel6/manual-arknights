@@ -343,5 +343,11 @@
         "region": "is6",
         "requires": "|Unflinching Masterplan| AND |Cloud & Paint|",
         "visible": false
+    },
+    {
+        "name": "emergency unlock is6",
+        "category": "is6",
+        "region": "is6",
+        "requires": "(|6 star: 1| AND (|4 star: 2| OR |5 star: 2| OR (|4 star: 1| AND |5 star: 1|)) OR |progressive 6 star|"
     }
 ]
