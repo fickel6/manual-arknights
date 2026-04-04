@@ -343,5 +343,12 @@
         "region": "is6",
         "requires": "|Unflinching Masterplan| AND |Cloud & Paint|",
         "visible": false
+    },
+    {
+        "name": "ending 4 unlock is6",
+        "category": "is6",
+        "region": "is6",
+        "requires": "|Unsealed Case| AND |Inkless Scroll|",
+        "visible": false
     }
 ]

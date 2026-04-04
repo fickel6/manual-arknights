@@ -4812,6 +4812,28 @@
     "progression": true
   },
   {
+    "count": 1,
+    "_comment": "this is for ending 4 of is6",
+    "name": "Unsealed Case",
+    "category": [
+      "is6 collectible",
+      "is6",
+      "ed4"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "_comment": "this is for ending 4 of is6",
+    "name": "Inkless Scroll",
+    "category": [
+      "is6 collectible",
+      "is6",
+      "ed4"
+    ],
+    "progression": true
+  },
+  {
     "name": "is2 key",
     "category": [
       "is2",

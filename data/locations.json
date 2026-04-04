@@ -3683,6 +3683,24 @@
     "requires": "|floor1 unlock is6|"
   },
   {
+    "name": "'Pest Control' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 floor 1"
+    ],
+    "requires": "|floor1 unlock is6|"
+  },
+  {
+    "name": "emergency 'Pest Control' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 emergency floor 1"
+    ],
+    "requires": "|floor1 unlock is6|"
+  },
+  {
     "name": "'Serious Business' clear",
     "region": "is6",
     "category": [
@@ -3693,6 +3711,24 @@
   },
   {
     "name": "emergency 'Serious Business' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 emergency floor 1"
+    ],
+    "requires": "|floor1 unlock is6|"
+  },
+  {
+    "name": "'Ticket Please' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 floor 1"
+    ],
+    "requires": "|floor1 unlock is6|"
+  },
+  {
+    "name": "emergency 'Ticket Please' clear",
     "region": "is6",
     "category": [
       "is6",
@@ -3828,6 +3864,42 @@
   },
   {
     "name": "emergency 'Look Out Above' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 emergency floor 2"
+    ],
+    "requires": "|floor2 unlock is6|"
+  },
+  {
+    "name": "'Rescue Mission' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 floor 2"
+    ],
+    "requires": "|floor2 unlock is6|"
+  },
+  {
+    "name": "emergency 'Rescue Mission' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 emergency floor 2"
+    ],
+    "requires": "|floor2 unlock is6|"
+  },
+  {
+    "name": "'Toy Soldiers' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 floor 2"
+    ],
+    "requires": "|floor2 unlock is6|"
+  },
+  {
+    "name": "emergency 'Toy Soldiers' clear",
     "region": "is6",
     "category": [
       "is6",
@@ -4250,7 +4322,47 @@
       "is6 floor entrance",
       "floor 6 checks"
     ],
-    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6|)"
+    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6| OR |ending 4 unlock is6|)"
+  },
+  {
+    "name": "'A Change of Fate' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 floor 6",
+      "floor 6 checks"
+    ],
+    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6| OR |ending 4 unlock is6|)"
+  },
+  {
+    "name": "emergency 'A Change of Fate' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 emergency floor 6",
+      "floor 6 checks"
+    ],
+    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6| OR |ending 4 unlock is6|)"
+  },
+  {
+    "name": "'Near Forgotten' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 floor 6",
+      "floor 6 checks"
+    ],
+    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6| OR |ending 4 unlock is6|)"
+  },
+  {
+    "name": "emergency 'Near Forgotten' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 emergency floor 6",
+      "floor 6 checks"
+    ],
+    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6| OR |ending 4 unlock is6|)"
   },
   {
     "name": "'Garrison' clear",
@@ -4260,7 +4372,7 @@
       "is6 floor 6",
       "floor 6 checks"
     ],
-    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6|)"
+    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6| OR |ending 4 unlock is6|)"
   },
   {
     "name": "emergency 'Garrison' clear",
@@ -4270,7 +4382,7 @@
       "is6 emergency floor 6",
       "floor 6 checks"
     ],
-    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6|)"
+    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6| OR |ending 4 unlock is6|)"
   },
   {
     "name": "'Inferno' clear",
@@ -4280,7 +4392,7 @@
       "is6 floor 6",
       "floor 6 checks"
     ],
-    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6|)"
+    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6| OR |ending 4 unlock is6|)"
   },
   {
     "name": "emergency 'Inferno' clear",
@@ -4290,7 +4402,7 @@
       "is6 emergency floor 6",
       "floor 6 checks"
     ],
-    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6|)"
+    "requires": "|floor6 unlock is6| AND (|ending 3 unlock is6| OR |ending 4 unlock is6|)"
   },
   {
     "name": "'The Sui Strategist' clear",
@@ -4303,6 +4415,16 @@
     "requires": "|floor6 unlock is6| AND |ending 3 unlock is6|"
   },
   {
+    "name": "'The Last Hunt' clear",
+    "region": "is6",
+    "category": [
+      "is6 boss",
+      "ed4"
+    ],
+    "victory": true,
+    "requires": "|floor6 unlock is6| AND |ending 4 unlock is6|"
+  },
+  {
     "name": "Shifei Border",
     "category": [
       "is6",
@@ -4311,7 +4433,7 @@
     "requires": "|wander into wonderland unlock is6|"
   },
   {
-    "name": "'Against the Flood' clear",
+    "name": "'Avarice' clear",
     "region": "is6",
     "category": [
       "is6",
@@ -4320,7 +4442,7 @@
     "requires": "|wander into wonderland unlock is6|"
   },
   {
-    "name": "'Amidst Thunder' clear",
+    "name": "'Breakthrough' clear",
     "region": "is6",
     "category": [
       "is6",
@@ -4329,7 +4451,7 @@
     "requires": "|wander into wonderland unlock is6|"
   },
   {
-    "name": "'Defying Quakes' clear",
+    "name": "'Confusion' clear",
     "region": "is6",
     "category": [
       "is6",
@@ -4338,7 +4460,7 @@
     "requires": "|wander into wonderland unlock is6|"
   },
   {
-    "name": "'Slandering Heaven' clear",
+    "name": "'Difficult Beginnings' clear",
     "region": "is6",
     "category": [
       "is6",
@@ -4347,7 +4469,70 @@
     "requires": "|wander into wonderland unlock is6|"
   },
   {
-    "name": "'To the Fall' clear",
+    "name": "'Everywhere' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Wander into Wonderland floor"
+    ],
+    "requires": "|wander into wonderland unlock is6|"
+  },
+  {
+    "name": "'Frivolous Tunes' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Wander into Wonderland floor"
+    ],
+    "requires": "|wander into wonderland unlock is6|"
+  },
+  {
+    "name": "'Inner Rage' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Wander into Wonderland floor"
+    ],
+    "requires": "|wander into wonderland unlock is6|"
+  },
+  {
+    "name": "'Strange Tales' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Wander into Wonderland floor"
+    ],
+    "requires": "|wander into wonderland unlock is6|"
+  },
+  {
+    "name": "'The Four Difficulties' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Wander into Wonderland floor"
+    ],
+    "requires": "|wander into wonderland unlock is6|"
+  },
+  {
+    "name": "'To Forget Oneself' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Wander into Wonderland floor"
+    ],
+    "requires": "|wander into wonderland unlock is6|"
+  },
+  {
+    "name": "'Ware-User' clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Wander into Wonderland floor"
+    ],
+    "requires": "|wander into wonderland unlock is6|"
+  },
+  {
+    "name": "'Unreflecting' clear",
     "region": "is6",
     "category": [
       "is6",
@@ -4389,6 +4574,36 @@
     "requires": "|floor3 unlock is6|"
   },
   {
+    "name": "'Dusk River Sayings' easy clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Face-Off",
+      "Face Off"
+    ],
+    "requires": "|floor3 unlock is6|"
+  },
+  {
+    "name": "'Dusk River Sayings' medium clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Face-Off",
+      "Face Off"
+    ],
+    "requires": "|floor3 unlock is6|"
+  },
+  {
+    "name": "'Dusk River Sayings' hard clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Face-Off",
+      "Face Off"
+    ],
+    "requires": "|floor3 unlock is6|"
+  },
+  {
     "name": "'Heroes of Nanwu' easy clear",
     "region": "is6",
     "category": [
@@ -4412,6 +4627,39 @@
   },
   {
     "name": "'Heroes of Nanwu' hard clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Face-Off",
+      "Face Off"
+    ],
+    "_comment": "I think face-off is available from floor 3?",
+    "requires": "|floor3 unlock is6|"
+  },
+  {
+    "name": "'Nanwu Vows' easy clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Face-Off",
+      "Face Off"
+    ],
+    "_comment": "I think face-off is available from floor 3?",
+    "requires": "|floor3 unlock is6|"
+  },
+  {
+    "name": "'Nanwu Vows' medium clear",
+    "region": "is6",
+    "category": [
+      "is6",
+      "is6 Face-Off",
+      "Face Off"
+    ],
+    "_comment": "I think face-off is available from floor 3?",
+    "requires": "|floor3 unlock is6|"
+  },
+  {
+    "name": "'Nanwu Vows' hard clear",
     "region": "is6",
     "category": [
       "is6",
