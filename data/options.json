@@ -43,6 +43,7 @@
                 "progressive items": 1,
                 "exclude": 2
             },
+            "default": 0,
             "group": "operator options",
             "visibility": [
                 "template",
@@ -63,6 +64,7 @@
                 "progressive items": 1,
                 "exclude": 2
             },
+            "default": 0,
             "group": "operator options",
             "visibility": [
                 "template",
@@ -70,17 +72,20 @@
                 "complex_ui"
             ]
         },
-        "_include 4 stars":{
+        "include 4 stars":{
             "description": [
                 "how the 4 stars will be randomised",
+                "'as individual items': all 4 stars are individual items. When you get this, you instantly get access to e2",
                 "'progressive items': all 4 stars are progressive items. first item, you unlock all 4 stars. Second progressive item unlocks e2",
                 "'exclude': no 4 stars will be included. Alternatively could be used as you can always use 4 stars"
             ],
             "type": "Choice",
             "values": {
-                "progressive items": 0,
-                "exclude": 1
+                "as individual items": 0,
+                "progressive items": 1,
+                "exclude": 2
             },
+            "default": 1,
             "group": "operator options",
             "visibility": [
                 "template",
@@ -88,17 +93,43 @@
                 "complex_ui"
             ]
         },
-        "_include 3 stars":{
+        "include 3 stars":{
             "description": [
-                "how the 3 stars will be randomised",
-                "'progressive items': all 3 stars are progressive items. first item, you unlock all 3 stars. Second progressive item unlocks e2",
+                "how the 3 stars will be randomised.",
+                "3 stars are maxed at e1, so there is no second progressive item.",
+                "'as individual items': all 3 stars are individual items.",
+                "'progressive items': all 3 stars are progressive items.",
                 "'exclude': no 3 stars will be included. Alternatively could be used as you can always use 3 stars"
             ],
             "type": "Choice",
             "values": {
-                "progressive items": 0,
-                "exclude": 1
+                "as individual items": 0,
+                "progressive items": 1,
+                "exclude": 2
             },
+            "default": 2,
+            "group": "operator options",
+            "visibility": [
+                "template",
+                "simple_ui",
+                "complex_ui"
+            ]
+        },
+        "include 1 and 2 stars":{
+            "description": [
+                "how the 1 and 2 stars will be randomised. 1 and 2 stars aren't used that much, so these two are combined.",
+                "the 1 and 2 stars also can't be e2.",
+                "'as individual items': all 1 and 2 stars are individual items.",
+                "'progressive items': all 3 stars are progressive items.",
+                "'exclude': no 1 and 2 stars will be included. Alternatively could be used as you can always use 1 and 2 stars"
+            ],
+            "type": "Choice",
+            "values": {
+                "as individual items": 0,
+                "progressive items": 1,
+                "exclude": 2
+            },
+            "default": 2,
             "group": "operator options",
             "visibility": [
                 "template",
