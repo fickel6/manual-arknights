@@ -4359,6 +4359,26 @@
   },
   {
     "count": "1",
+    "name": "Steadily, Surely",
+    "category": [
+      "starting voucher",
+      "voucher",
+      "is5"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Steady Wins",
+    "category": [
+      "starting voucher",
+      "voucher",
+      "is6"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Overcoming Your Weaknesses",
     "category": [
       "starting voucher",
