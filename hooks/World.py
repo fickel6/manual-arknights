@@ -151,6 +151,14 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     remove_character("progressive 4 star", "4 star", 2, world.options.include_4_stars)
     remove_character("progressive 3 star", "3 star", 1, world.options.include_3_stars)
     remove_character("progressive low star", "low star", 1, world.options.include_1_and_2_stars)
+    
+    #remove the vouchers that can't be used
+    if not world.options.include_is5:
+        item_pool.remove(next(i for i in item_pool if i.name == "Steadily, Surely"))
+    if not world.options.include_is6:
+        item_pool.remove(next(i for i in item_pool if i.name == "Steady Wins"))
+        item_pool.remove(next(i for i in item_pool if i.name == "Flexible Deployment"))
+        item_pool.remove(next(i for i in item_pool if i.name == "Indestructible"))
     # remove the amount of random unlockable items
     max_amount_random_unlock = 20
     for _ in range(max_amount_random_unlock - world.options.include_random_operators):
@@ -214,13 +222,18 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         possible_item_names = []
 
         for category in starting["item_categories"]:
-            possible_item_names.extend(
-                [name for name, i in world.item_name_to_item.items() if category in i.get("category", []) and starting_is in i.get("category", [])] #accounts for the key not existing
-            )
-
+            if category == "starting voucher":
+                possible_item_names.extend(
+                    [name for name, i in world.item_name_to_item.items() if category in i.get("category", [])]
+                )
+            else:
+                possible_item_names.extend(
+                    [name for name, i in world.item_name_to_item.items() if category in i.get("category", []) and starting_is in i.get("category", [])] #accounts for the key not existing
+                )
         possible_items = [
             i for i in item_pool if i.name in possible_item_names 
         ]
+        # print("there are [%s]" % ','.join(map(str, possible_items)))
         for _ in range(starting["random"]): 
             random_starting_item = world.random.choice(possible_items)
             multiworld.push_precollected(random_starting_item)
