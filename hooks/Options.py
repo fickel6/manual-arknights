@@ -86,7 +86,7 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
 # Use this Hook if you want to add your Option to an Option group (existing or not)
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:
     # Uses the format groups['GroupName'] = [TotalCharactersToWinWith]
-    groups["exclude operators"] = [Enabled6Star, Enabled5Star, Enabled4Star, Enabled3Star, EnabledLowStar]
+    groups["operator options"].extend([Enabled6Star, Enabled5Star, Enabled4Star, Enabled3Star, EnabledLowStar])
     
     return groups
 
