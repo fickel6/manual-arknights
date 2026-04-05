@@ -64,11 +64,11 @@ class EnabledLowStar(OptionSet):
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
-    options["exclude_6_star"] = Enabled6Star  # This registers the yaml option as `enabled_Operators`
-    options["exclude_5_star"] = Enabled5Star  # This registers the yaml option as `enabled_Operators`
-    options["exclude_4_star"] = Enabled4Star  # This registers the yaml option as `enabled_Operators`
-    options["exclude_3_star"] = Enabled3Star  # This registers the yaml option as `enabled_Operators`
-    options["exclude_low_star"] = EnabledLowStar  # This registers the yaml option as `enabled_Operators`
+    options["exclude_6_star"] = Enabled6Star  # This registers the yaml option as `exclude_6_star`
+    options["exclude_5_star"] = Enabled5Star  # This registers the yaml option as `exclude_5_star`
+    options["exclude_4_star"] = Enabled4Star  # This registers the yaml option as `exclude_4_star`
+    options["exclude_3_star"] = Enabled3Star  # This registers the yaml option as `exclude_3_star`
+    options["exclude_low_star"] = EnabledLowStar  # This registers the yaml option as `exclude_low_star`
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
@@ -86,7 +86,7 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
 # Use this Hook if you want to add your Option to an Option group (existing or not)
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:
     # Uses the format groups['GroupName'] = [TotalCharactersToWinWith]
-    groups["operator options"] = []
+    groups["exclude operators"] = [Enabled6Star, Enabled5Star, Enabled4Star, Enabled3Star, EnabledLowStar]
     
     return groups
 
