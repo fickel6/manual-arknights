@@ -3,7 +3,7 @@
     "count": "1",
     "name": "Aak",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "specialist"
     ],
@@ -13,7 +13,7 @@
     "count": "1",
     "name": "Angelina",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "supporter"
     ],
@@ -23,7 +23,7 @@
     "count": "1",
     "name": "Archetto",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -33,7 +33,7 @@
     "count": "1",
     "name": "Ascalon",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "specialist"
     ],
@@ -43,7 +43,7 @@
     "count": "1",
     "name": "Ash",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "crossover",
@@ -55,7 +55,7 @@
     "count": "1",
     "name": "Bagpipe",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "vanguard"
     ],
@@ -65,7 +65,7 @@
     "count": "1",
     "name": "Blaze",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -75,7 +75,7 @@
     "count": "1",
     "name": "Blaze the Igniting Spark",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "alter",
       "caster"
@@ -86,7 +86,7 @@
     "count": "1",
     "name": "Blemishine",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "defender"
     ],
@@ -96,7 +96,7 @@
     "count": "1",
     "name": "Carnelian",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -106,7 +106,7 @@
     "count": "1",
     "name": "Ceobe",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -116,7 +116,7 @@
     "count": "1",
     "name": "Ch'en",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -126,7 +126,7 @@
     "count": "1",
     "name": "Ch'en the Holungday",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "alter",
       "sniper"
@@ -137,7 +137,7 @@
     "count": "1",
     "name": "Chongyue",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "guard"
@@ -148,7 +148,7 @@
     "count": "1",
     "name": "Civilight Eterna",
     "category": [
-      "character",
+      "operator",
       "6 star", 
       "wellfare", 
       "supporter"
@@ -159,7 +159,7 @@
     "count": "1",
     "name": "Crownslayer",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "wellfare",
       "specialist"
@@ -170,7 +170,7 @@
     "count": "1",
     "name": "Degenbrecher",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -180,7 +180,7 @@
     "count": "1",
     "name": "Dorothty",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "specialist"
     ],
@@ -190,7 +190,7 @@
     "count": "1",
     "name": "Dusk",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "caster"
@@ -201,7 +201,7 @@
     "count": "1",
     "name": "Ebenholz",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -211,7 +211,7 @@
     "count": "1",
     "name": "Ela",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "crossover",
       "limited",
@@ -223,7 +223,7 @@
     "count": "1",
     "name": "Entelechia",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -233,7 +233,7 @@
     "count": "1",
     "name": "Eunectes",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "defender"
     ],
@@ -243,7 +243,7 @@
     "count": "1",
     "name": "Executor the Ex Foedere",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -253,7 +253,7 @@
     "count": "1",
     "name": "Exusiai",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -263,7 +263,7 @@
     "count": "1",
     "name": "exusiai the New Covenant",
     "category": [
-      "character",
+      "operator",
       "6 star", 
       "alter",
       "limited",
@@ -275,7 +275,7 @@
     "count": "1",
     "name": "Eyjafjalla",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -285,7 +285,7 @@
     "count": "1",
     "name": "Eyjafjalla the Hvit Aska",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "alter",
@@ -297,7 +297,7 @@
     "count": "1",
     "name": "Fartooth",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -307,7 +307,7 @@
     "count": "1",
     "name": "Fiametta",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -317,7 +317,7 @@
     "count": "1",
     "name": "Flametail",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "vanguard"
     ],
@@ -327,7 +327,7 @@
     "count": "1",
     "name": "Gavial the Invincible",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "alter",
@@ -339,7 +339,7 @@
     "count": "1",
     "name": "Gladiia",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "wellfare",
       "specialist"
@@ -350,7 +350,7 @@
     "count": "1",
     "name": "Gnosis",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "supporter"
     ],
@@ -360,7 +360,7 @@
     "count": "1",
     "name": "Goldenglow",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -370,7 +370,7 @@
     "count": "1",
     "name": "Hellagur",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -380,7 +380,7 @@
     "count": "1",
     "name": "Ho'olheyak",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -390,7 +390,7 @@
     "count": "1",
     "name": "Hoederer",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -400,7 +400,7 @@
     "count": "1",
     "name": "Horn",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "defender"
     ],
@@ -410,7 +410,7 @@
     "count": "1",
     "name": "Hoshiguma",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "defender"
     ],
@@ -420,7 +420,7 @@
     "count": "1",
     "name": "Ifrit",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -430,7 +430,7 @@
     "count": "1",
     "name": "Ines",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "vanguard"
     ],
@@ -440,7 +440,7 @@
     "count": "1",
     "name": "Irene",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -450,7 +450,7 @@
     "count": "1",
     "name": "Jessica the Liberated",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "alter", 
@@ -462,7 +462,7 @@
     "count": "1",
     "name": "Kalt'tsit",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "medic"
     ],
@@ -472,7 +472,7 @@
     "count": "1",
     "name": "Kirin R Yato",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "alter",
       "crossover",
@@ -485,7 +485,7 @@
     "count": "1",
     "name": "Lappland the Decadenza",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "alter",
@@ -497,7 +497,7 @@
     "count": "1",
     "name": "Lee",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "specialist"
     ],
@@ -507,7 +507,7 @@
     "count": "1",
     "name": "Leizi the Thunderbringer",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "alter",
       "guard"
@@ -518,7 +518,7 @@
     "count": "1",
     "name": "Lemuen",
     "category": [
-      "character",
+      "operator",
       "6 star",
        "sniper"
     ],
@@ -528,7 +528,7 @@
     "count": "1",
     "name": "Lessing",
     "category": [
-      "character",
+      "operator",
       "6 star",
        "guard"
     ],
@@ -538,7 +538,7 @@
     "count": "1",
     "name": "Lin",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -548,7 +548,7 @@
     "count": "1",
     "name": "Ling",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "supporter"
@@ -559,7 +559,7 @@
     "count": "1",
     "name": "Logos",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -569,7 +569,7 @@
     "count": "1",
     "name": "Lumen",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "medic",
       "wellfare"
@@ -580,7 +580,7 @@
     "count": "1",
     "name": "Magallan",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "supporter"
     ],
@@ -590,7 +590,7 @@
     "count": "1",
     "name": "Marcille",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "crossover",
       "caster"
@@ -601,7 +601,7 @@
     "count": "1",
     "name": "Mizuki",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "specialist"
     ],
@@ -611,7 +611,7 @@
     "count": "1",
     "name": "Mon3tr",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "medic"
     ],
@@ -621,7 +621,7 @@
     "count": "1",
     "name": "Mostima",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -631,7 +631,7 @@
     "count": "1",
     "name": "Mountain",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -641,7 +641,7 @@
     "count": "1",
     "name": "Mudrock",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "defender"
     ],
@@ -651,7 +651,7 @@
     "count": "1",
     "name": "Muelsyse",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "vanguard"
@@ -662,7 +662,7 @@
     "count": "1",
     "name": "Mlynar",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -672,7 +672,7 @@
     "count": "1",
     "name": "Narantuya",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -682,7 +682,7 @@
     "count": "1",
     "name": "Nearl the Radiant Knight",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "alter",
@@ -694,7 +694,7 @@
     "count": "1",
     "name": "Necrass",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -704,7 +704,7 @@
     "count": "1",
     "name": "Nian",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "defender"
@@ -715,7 +715,7 @@
     "count": "1",
     "name": "Nightingale",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "medic"
     ],
@@ -725,7 +725,7 @@
     "count": "1",
     "name": "Nymph",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -735,7 +735,7 @@
     "count": "1",
     "name": "Pallas",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -745,7 +745,7 @@
     "count": "1",
     "name": "Passenger",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -755,7 +755,7 @@
     "count": "1",
     "name": "Penance",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "defender"
     ],
@@ -765,7 +765,7 @@
     "count": "1",
     "name": "Pepe",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "guard"
@@ -776,7 +776,7 @@
     "count": "1",
     "name": "Phantom",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "specialist"
     ],
@@ -786,7 +786,7 @@
     "count": "1",
     "name": "Pozëmka",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -796,7 +796,7 @@
     "count": "1",
     "name": "Qiubai",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -806,7 +806,7 @@
     "count": "1",
     "name": "Raidian",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "wellfare",
       "supporter"
@@ -817,7 +817,7 @@
     "count": "1",
     "name": "Ray",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -827,7 +827,7 @@
     "count": "1",
     "name": "Reed the Flame Shadow",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "alter",
       "medic"
@@ -838,7 +838,7 @@
     "count": "1",
     "name": "Rosa",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -848,7 +848,7 @@
     "count": "1",
     "name": "Rosmontis",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "sniper"
@@ -859,7 +859,7 @@
     "count": "1",
     "name": "Saga",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "vanguard"
     ],
@@ -869,7 +869,7 @@
     "count": "1",
     "name": "Saileach",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "vanguard"
     ],
@@ -879,7 +879,7 @@
     "count": "1",
     "name": "Sankta Miksaparato",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "wellfare",
       "defender"
@@ -890,7 +890,7 @@
     "count": "1",
     "name": "Saria",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "defender"
     ],
@@ -900,7 +900,7 @@
     "count": "1",
     "name": "Schwarz",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -910,7 +910,7 @@
     "count": "1",
     "name": "Shining",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "medic"
     ],
@@ -920,7 +920,7 @@
     "count": "1",
     "name": "Siege",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "vanguard"
     ],
@@ -930,7 +930,7 @@
     "count": "1",
     "name": "Silence the Paradigmatic",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "wellfare",
@@ -942,7 +942,7 @@
     "count": "1",
     "name": "SilverAsh",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -952,7 +952,7 @@
     "count": "1",
     "name": "Skadi",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "vanguard"
     ],
@@ -962,7 +962,7 @@
     "count": "1",
     "name": "Skadi the Corrupting Heart",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "supporter"
     ],
@@ -972,7 +972,7 @@
     "count": "1",
     "name": "Specter The Unchained",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "alter",
       "limited",
@@ -984,7 +984,7 @@
     "count": "1",
     "name": "Stainless",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "supporter"
     ],
@@ -994,7 +994,7 @@
     "count": "1",
     "name": "Surtr",
     "category": [
-      "character",
+      "operator",
       "6 star", 
       "guard"
     ],
@@ -1004,7 +1004,7 @@
     "count": "1",
     "name": "Suzuran",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "supporter"
     ],
@@ -1014,7 +1014,7 @@
     "count": "1",
     "name": "Swire the Elegant Wit",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "alter",
       "specialist"
@@ -1025,7 +1025,7 @@
     "count": "1",
     "name": "Texas the Omertosa",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "alter",
@@ -1037,7 +1037,7 @@
     "count": "1",
     "name": "Thorns",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -1047,7 +1047,7 @@
     "count": "1",
     "name": "Thorns the Lodestar",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "alter",
       "specialist"
@@ -1058,7 +1058,7 @@
     "count": "1",
     "name": "Tragodia",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "alter",
       "supporter"
@@ -1069,7 +1069,7 @@
     "count": "1",
     "name": "Typhon",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -1079,7 +1079,7 @@
     "count": "1",
     "name": "Ulpianus",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -1089,7 +1089,7 @@
     "count": "1",
     "name": "Vigil",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "wellfare",
       "vanguard"
@@ -1100,7 +1100,7 @@
     "count": "1",
     "name": "Vina Victoria",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "alter",
       "guard"
@@ -1111,7 +1111,7 @@
     "count": "1",
     "name": "Virtuosa",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "supporter"
@@ -1122,7 +1122,7 @@
     "count": "1",
     "name": "Viviana",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -1132,7 +1132,7 @@
     "count": "1",
     "name": "Vulpisfoglia",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "vanguard"
     ],
@@ -1142,7 +1142,7 @@
     "count": "1",
     "name": "W",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "sniper"
@@ -1153,7 +1153,7 @@
     "count": "1",
     "name": "Weedy",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -1163,7 +1163,7 @@
     "count": "1",
     "name": "Wisadel",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "alter",
@@ -1175,7 +1175,7 @@
     "count": "1",
     "name": "Yu",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "defender"
@@ -1186,7 +1186,7 @@
     "count": "1",
     "name": "Zuo Le",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -1196,7 +1196,7 @@
     "count": "1",
     "name": "Haruka",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "supporter"
     ],
@@ -1206,7 +1206,7 @@
     "count": "1",
     "name": "Hoshiguma the Breacher",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "limited",
       "alter",
@@ -1218,7 +1218,7 @@
     "count": "1",
     "name": "Absinthe",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -1228,7 +1228,7 @@
     "count": "1",
     "name": "Akafuyu",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -1238,7 +1238,7 @@
     "count": "1",
     "name": "Alanna",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -1248,7 +1248,7 @@
     "count": "1",
     "name": "Almond",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -1258,7 +1258,7 @@
     "count": "1",
     "name": "Amiya",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -1268,7 +1268,7 @@
     "count": "1",
     "name": "Guard Amiya",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "alter",
       "guard"
@@ -1279,7 +1279,7 @@
     "count": "1",
     "name": "Medic Amiya",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "alter", 
       "medic"
@@ -1290,7 +1290,7 @@
     "count": "1",
     "name": "Andreana",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "sniper"
     ],
@@ -1300,7 +1300,7 @@
     "count": "1",
     "name": "Aosta",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "sniper"
     ],
@@ -1310,7 +1310,7 @@
     "count": "1",
     "name": "April",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "sniper"
     ],
@@ -1320,7 +1320,7 @@
     "count": "1",
     "name": "Aroma",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "caster"
     ],
@@ -1330,7 +1330,7 @@
     "count": "1",
     "name": "Asbestos",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -1340,7 +1340,7 @@
     "count": "1",
     "name": "Ashlock",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -1350,7 +1350,7 @@
     "count": "1",
     "name": "Astesia",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -1360,7 +1360,7 @@
     "count": "1",
     "name": "Astgenne",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "guard"
     ],
@@ -1370,7 +1370,7 @@
     "count": "1",
     "name": "Aurora",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -1380,7 +1380,7 @@
     "count": "1",
     "name": "Ayerscape",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -1390,7 +1390,7 @@
     "count": "1",
     "name": "Bassline",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -1400,7 +1400,7 @@
     "count": "1",
     "name": "Beeswax",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -1410,7 +1410,7 @@
     "count": "1",
     "name": "Bena",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -1420,7 +1420,7 @@
     "count": "1",
     "name": "Bibeak",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -1430,7 +1430,7 @@
     "count": "1",
     "name": "Bison",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -1440,7 +1440,7 @@
     "count": "1",
     "name": "Blacknight",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -1450,7 +1450,7 @@
     "count": "1",
     "name": "Blitz",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "limited",
       "defender"
@@ -1461,7 +1461,7 @@
     "count": "1",
     "name": "Blue Poison",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -1471,7 +1471,7 @@
     "count": "1",
     "name": "Bobbing",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -1481,7 +1481,7 @@
     "count": "1",
     "name": "Breeze",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "wellfare",
       "medic"
@@ -1492,7 +1492,7 @@
     "count": "1",
     "name": "Brigid",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "wellfare",
       "sniper"
@@ -1503,7 +1503,7 @@
     "count": "1",
     "name": "Broca",
     "category": [
-      "character",
+      "operator",
       "5 star",
        "guard"
     ],
@@ -1513,7 +1513,7 @@
     "count": "1",
     "name": "Bryophyta",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "wellfare",
       "guard"
@@ -1524,7 +1524,7 @@
     "count": "1",
     "name": "Cantabile",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -1534,7 +1534,7 @@
     "count": "1",
     "name": "Catherine",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -1544,7 +1544,7 @@
     "count": "1",
     "name": "Cement",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -1554,7 +1554,7 @@
     "count": "1",
     "name": "Ceylon",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "wellfare",
       "medic"
@@ -1565,7 +1565,7 @@
     "count": "1",
     "name": "Chiave",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -1575,7 +1575,7 @@
     "count": "1",
     "name": "Chilchuck",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "limited",
       "vanguard"
@@ -1586,7 +1586,7 @@
     "count": "1",
     "name": "Cliffheart",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -1596,7 +1596,7 @@
     "count": "1",
     "name": "Coldshot",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -1606,7 +1606,7 @@
     "count": "1",
     "name": "Corroserum",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -1616,7 +1616,7 @@
     "count": "1",
     "name": "Croissant",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -1626,7 +1626,7 @@
     "count": "1",
     "name": "Czerny",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "wellfare",
       "defender"
@@ -1637,7 +1637,7 @@
     "count": "1",
     "name": "Dagda",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -1647,7 +1647,7 @@
     "count": "1",
     "name": "Delphine",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "wellfare",
       "caster"
@@ -1658,7 +1658,7 @@
     "count": "1",
     "name": "Diamante",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -1668,7 +1668,7 @@
     "count": "1",
     "name": "Doc",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "limited",
       "guard"
@@ -1679,7 +1679,7 @@
     "count": "1",
     "name": "Elysium",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -1689,7 +1689,7 @@
     "count": "1",
     "name": "Enforcer",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -1699,7 +1699,7 @@
     "count": "1",
     "name": "Erato",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -1709,7 +1709,7 @@
     "count": "1",
     "name": "executor",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -1719,7 +1719,7 @@
     "count": "1",
     "name": "Fang the Fire-Sharpened",
     "category": [
-      "character",
+      "operator",
       "5 star",
        "vanguard"
     ],
@@ -1729,7 +1729,7 @@
     "count": "1",
     "name": "FEater",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -1739,7 +1739,7 @@
     "count": "1",
     "name": "Figurino",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -1749,7 +1749,7 @@
     "count": "1",
     "name": "Firewatch",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -1759,7 +1759,7 @@
     "count": "1",
     "name": "Firewhistle",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -1769,7 +1769,7 @@
     "count": "1",
     "name": "Flamebringer",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -1779,7 +1779,7 @@
     "count": "1",
     "name": "Flint",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -1789,7 +1789,7 @@
     "count": "1",
     "name": "Folinic",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -1799,7 +1799,7 @@
     "count": "1",
     "name": "Franka",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -1809,7 +1809,7 @@
     "count": "1",
     "name": "Frost",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "limited",
       "specialist"
@@ -1820,7 +1820,7 @@
     "count": "1",
     "name": "Fuze",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "limited",
       "guard"
@@ -1831,7 +1831,7 @@
     "count": "1",
     "name": "Glaucus",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "supporter"
     ],
@@ -1841,7 +1841,7 @@
     "count": "1",
     "name": "Gracebearer",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -1851,7 +1851,7 @@
     "count": "1",
     "name": "Grain Buds",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -1861,7 +1861,7 @@
     "count": "1",
     "name": "Grani",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "wellfare",
       "vanguard"
@@ -1872,7 +1872,7 @@
     "count": "1",
     "name": "GreyThroat",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -1882,7 +1882,7 @@
     "count": "1",
     "name": "Greyy the lightningbearer",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "alter", 
       "sniper"
@@ -1893,7 +1893,7 @@
     "count": "1",
     "name": "Harmonie",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -1903,7 +1903,7 @@
     "count": "1",
     "name": "Harold",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "wellfare",
       "medic"
@@ -1914,7 +1914,7 @@
     "count": "1",
     "name": "Heavyrain",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -1924,7 +1924,7 @@
     "count": "1",
     "name": "Heidi",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "wellfare",
       "supporter"
@@ -1935,7 +1935,7 @@
     "count": "1",
     "name": "Hibiscus the Purifier",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "alter",
       "medic"
@@ -1946,7 +1946,7 @@
     "count": "1",
     "name": "Honeyberry",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -1956,7 +1956,7 @@
     "count": "1",
     "name": "Highmore",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -1966,7 +1966,7 @@
     "count": "1",
     "name": "Hung",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -1976,7 +1976,7 @@
     "count": "1",
     "name": "Iana",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "limited",
       "specialist"
@@ -1987,7 +1987,7 @@
     "count": "1",
     "name": "Indra",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -1997,7 +1997,7 @@
     "count": "1",
     "name": "Insider",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -2007,7 +2007,7 @@
     "count": "1",
     "name": "Iris",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2017,7 +2017,7 @@
     "count": "1",
     "name": "Istina",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -2027,7 +2027,7 @@
     "count": "1",
     "name": "Jieyun",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -2037,7 +2037,7 @@
     "count": "1",
     "name": "Kafka",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2047,7 +2047,7 @@
     "count": "1",
     "name": "Kazemaru",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2057,7 +2057,7 @@
     "count": "1",
     "name": "Kestrel",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -2067,7 +2067,7 @@
     "count": "1",
     "name": "Kichisei",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -2077,7 +2077,7 @@
     "count": "1",
     "name": "Kirara",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2087,7 +2087,7 @@
     "count": "1",
     "name": "Kjera",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2097,7 +2097,7 @@
     "count": "1",
     "name": "Kroos the Ken Glint",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "alter",
       "sniper"
@@ -2108,7 +2108,7 @@
     "count": "1",
     "name": "La Pluma",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2118,7 +2118,7 @@
     "count": "1",
     "name": "Laios",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "guard"
     ],
@@ -2128,7 +2128,7 @@
     "count": "1",
     "name": "Lappland",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2138,7 +2138,7 @@
     "count": "1",
     "name": "Lava the Purgatory",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "wellfare",
       "alter",
@@ -2150,7 +2150,7 @@
     "count": "1",
     "name": "Leizi",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2160,7 +2160,7 @@
     "count": "1",
     "name": "Leonhardt",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2170,7 +2170,7 @@
     "count": "1",
     "name": "Leto",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "wellfare",
       "guard"
@@ -2181,7 +2181,7 @@
     "count": "1",
     "name": "Liskarm",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -2191,7 +2191,7 @@
     "count": "1",
     "name": "Lucilla",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -2201,7 +2201,7 @@
     "count": "1",
     "name": "Lunacub",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -2211,7 +2211,7 @@
     "count": "1",
     "name": "Manticore",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2221,7 +2221,7 @@
     "count": "1",
     "name": "Matsukiri",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "wellfare",
       "vanguard"
@@ -2232,7 +2232,7 @@
     "count": "1",
     "name": "Mayer",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -2242,7 +2242,7 @@
     "count": "1",
     "name": "Melanite",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -2252,7 +2252,7 @@
     "count": "1",
     "name": "Meteorite",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -2262,7 +2262,7 @@
     "count": "1",
     "name": "Minimalist",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "wellfare",
       "caster"
@@ -2273,7 +2273,7 @@
     "count": "1",
     "name": "Mint",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2283,7 +2283,7 @@
     "count": "1",
     "name": "Miss.Christine",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "caster"
     ],
@@ -2293,7 +2293,7 @@
     "count": "1",
     "name": "Mitm",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -2303,7 +2303,7 @@
     "count": "1",
     "name": "Morgan",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2313,7 +2313,7 @@
     "count": "1",
     "name": "Mr. Nothing",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2323,7 +2323,7 @@
     "count": "1",
     "name": "Mulberry",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -2333,7 +2333,7 @@
     "count": "1",
     "name": "Nearl",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -2343,7 +2343,7 @@
     "count": "1",
     "name": "Nightmare",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2353,7 +2353,7 @@
     "count": "1",
     "name": "Nine-Colored Deer",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "limited",
       "supporter"
@@ -2364,7 +2364,7 @@
     "count": "1",
     "name": "Nowell",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -2374,7 +2374,7 @@
     "count": "1",
     "name": "Odda",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2384,7 +2384,7 @@
     "count": "1",
     "name": "Paprika",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -2394,7 +2394,7 @@
     "count": "1",
     "name": "Papyrus",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "wellfare",
       "medic"
@@ -2405,7 +2405,7 @@
     "count": "1",
     "name": "Philae",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "wellfare",
       "defender"
@@ -2416,7 +2416,7 @@
     "count": "1",
     "name": "Platinum",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -2426,7 +2426,7 @@
     "count": "1",
     "name": "Poncirus",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -2436,7 +2436,7 @@
     "count": "1",
     "name": "Pramanix",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -2446,7 +2446,7 @@
     "count": "1",
     "name": "Projekt Red",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2456,7 +2456,7 @@
     "count": "1",
     "name": "Provence",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -2466,7 +2466,7 @@
     "count": "1",
     "name": "Proviso",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -2476,7 +2476,7 @@
     "count": "1",
     "name": "Ptillopsis",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -2486,7 +2486,7 @@
     "count": "1",
     "name": "Puzzle",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -2496,7 +2496,7 @@
     "count": "1",
     "name": "Qanipalaat",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "wellfare",
       "caster"
@@ -2507,7 +2507,7 @@
     "count": "1",
     "name": "Qeurcus",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -2517,7 +2517,7 @@
     "count": "1",
     "name": "Rathalos S Noir Corne",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2527,7 +2527,7 @@
     "count": "1",
     "name": "Record Keeper",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -2537,7 +2537,7 @@
     "count": "1",
     "name": "Reed",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -2547,7 +2547,7 @@
     "count": "1",
     "name": "Robin",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "wellfare",
       "specialist"
@@ -2608,7 +2608,7 @@
     "count": "1",
     "name": "Rockrock",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2618,7 +2618,7 @@
     "count": "1",
     "name": "Rose Salt",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -2628,7 +2628,7 @@
     "count": "1",
     "name": "Sand Reckoner",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -2638,7 +2638,7 @@
     "count": "1",
     "name": "Santalla",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2648,7 +2648,7 @@
     "count": "1",
     "name": "Savage",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2658,7 +2658,7 @@
     "count": "1",
     "name": "Scene",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -2668,7 +2668,7 @@
     "count": "1",
     "name": "Senshi",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "limited",
       "defender"
@@ -2679,7 +2679,7 @@
     "count": "1",
     "name": "Sesa",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -2689,7 +2689,7 @@
     "count": "1",
     "name": "Shalem",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "defender"
     ],
@@ -2699,7 +2699,7 @@
     "count": "1",
     "name": "Shamare",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "supporter"
     ],
@@ -2709,7 +2709,7 @@
     "count": "1",
     "name": "Sideroca",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2719,7 +2719,7 @@
     "count": "1",
     "name": "Silence",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -2729,7 +2729,7 @@
     "count": "1",
     "name": "Skyfire",
     "category": [
-      "character",
+      "operator",
       "5 star",
        "caster"
     ],
@@ -2739,7 +2739,7 @@
     "count": "1",
     "name": "Snowsant",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2749,7 +2749,7 @@
     "count": "1",
     "name": "Sora",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -2759,7 +2759,7 @@
     "count": "1",
     "name": "Specter",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2769,7 +2769,7 @@
     "count": "1",
     "name": "Spuria",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2779,7 +2779,7 @@
     "count": "1",
     "name": "Surfer",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -2789,7 +2789,7 @@
     "count": "1",
     "name": "Swire",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2799,7 +2799,7 @@
     "count": "1",
     "name": "Tachanka",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "limited",
       "guard"
@@ -2810,7 +2810,7 @@
     "count": "1",
     "name": "Tecno",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2820,7 +2820,7 @@
     "count": "1",
     "name": "Tequilla",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2830,7 +2830,7 @@
     "count": "1",
     "name": "Texas",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -2840,7 +2840,7 @@
     "count": "1",
     "name": "Tin man",
     "category": [
-      "character",
+      "operator",
       "5 star", 
       "wellfare",
       "specialist"
@@ -2851,7 +2851,7 @@
     "count": "1",
     "name": "Tippi",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2861,7 +2861,7 @@
     "count": "1",
     "name": "Toddifons",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "sniper"
     ],
@@ -2871,7 +2871,7 @@
     "count": "1",
     "name": "Tomimi",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2881,7 +2881,7 @@
     "count": "1",
     "name": "Tsukinogi",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2891,7 +2891,7 @@
     "count": "1",
     "name": "Tuye",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -2901,7 +2901,7 @@
     "count": "1",
     "name": "Underflow",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2911,7 +2911,7 @@
     "count": "1",
     "name": "Valarqvin",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -2921,7 +2921,7 @@
     "count": "1",
     "name": "Vendela",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -2931,7 +2931,7 @@
     "count": "1",
     "name": "Vulcan",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "defender"
     ],
@@ -2941,7 +2941,7 @@
     "count": "1",
     "name": "Waai Fu",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -2951,7 +2951,7 @@
     "count": "1",
     "name": "Wanqing",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -2961,7 +2961,7 @@
     "count": "1",
     "name": "Warfarin",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -2971,7 +2971,7 @@
     "count": "1",
     "name": "Warmy",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "caster"
     ],
@@ -2981,7 +2981,7 @@
     "count": "1",
     "name": "Whislash",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -2991,7 +2991,7 @@
     "count": "1",
     "name": "Wisperain",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "medic"
     ],
@@ -3001,7 +3001,7 @@
     "count": "1",
     "name": "Wilde mane",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -3011,7 +3011,7 @@
     "count": "1",
     "name": "Wind Chimes",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "guard"
     ],
@@ -3021,7 +3021,7 @@
     "count": "1",
     "name": "Windflit",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -3031,7 +3031,7 @@
     "count": "1",
     "name": "Fulfenite",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "specialist"
     ],
@@ -3041,7 +3041,7 @@
     "count": "1",
     "name": "Xingzhu",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "supporter"
     ],
@@ -3051,7 +3051,7 @@
     "count": "1",
     "name": "Zima",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "vanguard"
     ],
@@ -3061,7 +3061,7 @@
     "count": "1",
     "name": "Aciddrop",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "Sniper"
     ],
@@ -3071,7 +3071,7 @@
     "count": "1",
     "name": "Ambriel",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "Sniper"
     ],
@@ -3081,7 +3081,7 @@
     "count": "1",
     "name": "Arene",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3091,7 +3091,7 @@
     "count": "1",
     "name": "Beanstalk",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "vanguard"
     ],
@@ -3101,7 +3101,7 @@
     "count": "1",
     "name": "Beehunter",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3111,7 +3111,7 @@
     "count": "1",
     "name": "Bubble",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "defender"
     ],
@@ -3121,7 +3121,7 @@
     "count": "1",
     "name": "Caper",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "Sniper"
     ],
@@ -3131,7 +3131,7 @@
     "count": "1",
     "name": "Chestnut",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "medic"
     ],
@@ -3141,7 +3141,7 @@
     "count": "1",
     "name": "Click",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "caster"
     ],
@@ -3151,7 +3151,7 @@
     "count": "1",
     "name": "Contrail",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "specialist"
     ],
@@ -3161,7 +3161,7 @@
     "count": "1",
     "name": "Conviction",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3171,7 +3171,7 @@
     "count": "1",
     "name": "Courier",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "vanguard"
     ],
@@ -3181,7 +3181,7 @@
     "count": "1",
     "name": "Cuora",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "defender"
     ],
@@ -3191,7 +3191,7 @@
     "count": "1",
     "name": "Cutter",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3201,7 +3201,7 @@
     "count": "1",
     "name": "Deepcolor",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "supporter"
     ],
@@ -3211,7 +3211,7 @@
     "count": "1",
     "name": "Dobermann",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3221,7 +3221,7 @@
     "count": "1",
     "name": "Dur-nar",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "defender"
     ],
@@ -3231,7 +3231,7 @@
     "count": "1",
     "name": "Earthspirit",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "supporter"
     ],
@@ -3241,7 +3241,7 @@
     "count": "1",
     "name": "Estelle",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3251,7 +3251,7 @@
     "count": "1",
     "name": "Ethan",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "specialist"
     ],
@@ -3261,7 +3261,7 @@
     "count": "1",
     "name": "Frostleaf",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3271,7 +3271,7 @@
     "count": "1",
     "name": "Gavial",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "medic"
     ],
@@ -3281,7 +3281,7 @@
     "count": "1",
     "name": "Gitano",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "caster"
     ],
@@ -3291,7 +3291,7 @@
     "count": "1",
     "name": "Gravel",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "specialist"
     ],
@@ -3301,7 +3301,7 @@
     "count": "1",
     "name": "Greyy",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "caster"
     ],
@@ -3311,7 +3311,7 @@
     "count": "1",
     "name": "Gummy",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "defender"
     ],
@@ -3321,7 +3321,7 @@
     "count": "1",
     "name": "Haze",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "caster"
     ],
@@ -3331,7 +3331,7 @@
     "count": "1",
     "name": "Humus",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3341,7 +3341,7 @@
     "count": "1",
     "name": "Indigo",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "caster"
     ],
@@ -3351,7 +3351,7 @@
     "count": "1",
     "name": "Jackie",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3361,7 +3361,7 @@
     "count": "1",
     "name": "Jaye",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "specialist"
     ],
@@ -3371,7 +3371,7 @@
     "count": "1",
     "name": "Jessica",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "sniper"
     ],
@@ -3381,7 +3381,7 @@
     "count": "1",
     "name": "Luo Xiaohei",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3391,7 +3391,7 @@
     "count": "1",
     "name": "Lutonada",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "defender"
     ],
@@ -3401,7 +3401,7 @@
     "count": "1",
     "name": "Matoimaru",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3411,7 +3411,7 @@
     "count": "1",
     "name": "matterhorn",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "defender"
     ],
@@ -3421,7 +3421,7 @@
     "count": "1",
     "name": "May",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "Sniper"
     ],
@@ -3431,7 +3431,7 @@
     "count": "1",
     "name": "Meteor",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "sniper"
     ],
@@ -3441,7 +3441,7 @@
     "count": "1",
     "name": "Mousse",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3451,7 +3451,7 @@
     "count": "1",
     "name": "Myrrh",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "medic"
     ],
@@ -3461,7 +3461,7 @@
     "count": "1",
     "name": "Myrtle",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "vanguard"
     ],
@@ -3471,7 +3471,7 @@
     "count": "1",
     "name": "Perfumer",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "medic"
     ],
@@ -3481,7 +3481,7 @@
     "count": "1",
     "name": "Pinecone",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "sniper"
     ],
@@ -3491,7 +3491,7 @@
     "count": "1",
     "name": "Podenco",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "supporter"
     ],
@@ -3501,7 +3501,7 @@
     "count": "1",
     "name": "Pudding",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "caster"
     ],
@@ -3511,7 +3511,7 @@
     "count": "1",
     "name": "Purestream",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "medic"
     ],
@@ -3521,7 +3521,7 @@
     "count": "1",
     "name": "Quartz",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3531,7 +3531,7 @@
     "count": "1",
     "name": "Roberta",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "supporter"
     ],
@@ -3541,7 +3541,7 @@
     "count": "1",
     "name": "Rope",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "specialist"
     ],
@@ -3551,7 +3551,7 @@
     "count": "1",
     "name": "Scavenger",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "vanguard"
     ],
@@ -3561,7 +3561,7 @@
     "count": "1",
     "name": "Shaw",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "specialist"
     ],
@@ -3571,7 +3571,7 @@
     "count": "1",
     "name": "Shirayuki",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "sniper"
     ],
@@ -3581,7 +3581,7 @@
     "count": "1",
     "name": "Sussurro",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "medic"
     ],
@@ -3591,7 +3591,7 @@
     "count": "1",
     "name": "Totter",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "sniper"
     ],
@@ -3601,7 +3601,7 @@
     "count": "1",
     "name": "Utage",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3611,7 +3611,7 @@
     "count": "1",
     "name": "Verdant",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "specialist"
     ],
@@ -3621,7 +3621,7 @@
     "count": "1",
     "name": "Vermeil",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "sniper"
     ],
@@ -3631,7 +3631,7 @@
     "count": "1",
     "name": "Vigna",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "vanguard"
     ],
@@ -3641,7 +3641,7 @@
     "count": "1",
     "name": "Windscoot",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "guard"
     ],
@@ -3651,7 +3651,7 @@
     "count": "1",
     "name": "Adnachiel",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "sniper"
     ],
@@ -3661,7 +3661,7 @@
     "count": "1",
     "name": "Ansel",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "medic"
     ],
@@ -3671,7 +3671,7 @@
     "count": "1",
     "name": "Beagle",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "defender"
     ],
@@ -3681,7 +3681,7 @@
     "count": "1",
     "name": "Cardigan",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "defender"
     ],
@@ -3691,7 +3691,7 @@
     "count": "1",
     "name": "Catapult",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "sniper"
     ],
@@ -3701,7 +3701,7 @@
     "count": "1",
     "name": "Fang",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "vanguard"
     ],
@@ -3711,7 +3711,7 @@
     "count": "1",
     "name": "Hibiscus",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "medic"
     ],
@@ -3721,7 +3721,7 @@
     "count": "1",
     "name": "Kroos",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "sniper"
     ],
@@ -3731,7 +3731,7 @@
     "count": "1",
     "name": "Lava",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "caster"
     ],
@@ -3741,7 +3741,7 @@
     "count": "1",
     "name": "Melantha",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "guard"
     ],
@@ -3751,7 +3751,7 @@
     "count": "1",
     "name": "Midnight",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "guard"
     ],
@@ -3761,7 +3761,7 @@
     "count": "1",
     "name": "Orchid",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "supporter"
     ],
@@ -3771,7 +3771,7 @@
     "count": "1",
     "name": "Plume",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "vanguard"
     ],
@@ -3781,7 +3781,7 @@
     "count": "1",
     "name": "Popukar",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "guard"
     ],
@@ -3791,7 +3791,7 @@
     "count": "1",
     "name": "Spot",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "defender"
     ],
@@ -3801,7 +3801,7 @@
     "count": "1",
     "name": "Steward",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "caster"
     ],
@@ -3811,7 +3811,7 @@
     "count": "1",
     "name": "Vanilla",
     "category": [
-      "character",
+      "operator",
       "3 star",
       "vanguard"
     ],
@@ -3821,7 +3821,7 @@
     "count": "1",
     "name": "12F",
     "category": [
-      "character",
+      "operator",
       "low star",
       "caster"
     ],
@@ -3831,7 +3831,7 @@
     "count": "1",
     "name": "Durin",
     "category": [
-      "character",
+      "operator",
       "low star",
       "caster"
     ],
@@ -3841,7 +3841,7 @@
     "count": "1",
     "name": "Noir Corne",
     "category": [
-      "character",
+      "operator",
       "low star",
       "defender"
     ],
@@ -3851,7 +3851,7 @@
     "count": "1",
     "name": "Rangers",
     "category": [
-      "character",
+      "operator",
       "low star",
       "sniper"
     ],
@@ -3861,7 +3861,7 @@
     "count": "1",
     "name": "CONFESS-47",
     "category": [
-      "character",
+      "operator",
       "low star",
       "vanguard"
     ],
@@ -3871,7 +3871,7 @@
     "count": "1",
     "name": "Castle-3",
     "category": [
-      "character",
+      "operator",
       "low star",
       "guard"
     ],
@@ -3881,7 +3881,7 @@
     "count": "1",
     "name": "Friston-3",
     "category": [
-      "character",
+      "operator",
       "low star",
       "defender"
     ],
@@ -3891,7 +3891,7 @@
     "count": "1",
     "name": "Justice Knight",
     "category": [
-      "character",
+      "operator",
       "low star",
       "sniper"
     ],
@@ -3901,7 +3901,7 @@
     "count": "1",
     "name": "Lancet-2",
     "category": [
-      "character",
+      "operator",
       "low star",
       "medic"
     ],
@@ -3911,7 +3911,7 @@
     "count": "1",
     "name": "PhonoR-0",
     "category": [
-      "character",
+      "operator",
       "low star",
       "supporter"
     ],
@@ -3921,7 +3921,7 @@
     "count": "1",
     "name": "THRM-EX",
     "category": [
-      "character",
+      "operator",
       "low star",
       "specialist"
     ],
@@ -3931,7 +3931,7 @@
     "count": "1",
     "name": "Terra Research Commission",
     "category": [
-      "character",
+      "operator",
       "low star",
       "sniper"
     ],
@@ -3941,7 +3941,7 @@
     "count": "1",
     "name": "U-Official",
     "category": [
-      "character",
+      "operator",
       "low star",
       "supporter"
     ],
@@ -3951,7 +3951,7 @@
     "count": "1",
     "name": "Yato",
     "category": [
-      "character",
+      "operator",
       "low star",
       "vanguard"
     ],
@@ -3961,7 +3961,7 @@
     "count": "1",
     "name": "Mantra",
     "category": [
-      "character",
+      "operator",
       "6 star",
       "caster"
     ],
@@ -3971,7 +3971,7 @@
     "count": "1",
     "name": "Vetochki",
     "category": [
-      "character",
+      "operator",
       "5 star",
       "Defender"
     ],
@@ -3981,7 +3981,7 @@
     "count": "1",
     "name": "Snegurochka",
     "category": [
-      "character",
+      "operator",
       "4 star",
       "vanguard"
     ],
@@ -3991,7 +3991,7 @@
     "count": "20",
     "name": "random unit unlock",
     "category": [
-      "character unlock"
+      "operator unlock"
     ],
     "useful": true
   },
@@ -3999,7 +3999,7 @@
     "count": "2",
     "name": "progressive 6 star",
     "category": [
-      "progressive characters"
+      "progressive operators"
     ],
     "useful": true
   },
@@ -4007,7 +4007,7 @@
     "count": "2",
     "name": "progressive 5 star",
     "category": [
-      "progressive characters"
+      "progressive operators"
     ],
     "useful": true
   },
@@ -4015,7 +4015,7 @@
     "count": "2",
     "name": "progressive 4 star",
     "category": [
-      "progressive characters"
+      "progressive operators"
     ],
     "useful": true
   },
@@ -4023,7 +4023,7 @@
     "count": "1",
     "name": "progressive 3 star",
     "category": [
-      "progressive characters"
+      "progressive operators"
     ],
     "useful": true
   },
@@ -4031,7 +4031,7 @@
     "count": "1",
     "name": "progressive low star",
     "category": [
-      "progressive characters"
+      "progressive operators"
     ],
     "useful": true
   },
