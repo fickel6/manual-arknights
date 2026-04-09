@@ -379,6 +379,15 @@
                 "alternatively, use this as 'unlock a character you want' item"
             ],
             "group": "operator options"
+        },
+        "blacklist or whitelist operators": {
+            "type": "Toggle",
+            "default": true,
+            "description": [
+                "set this to true to whitelist the folowing list of operators",
+                "set this to false to blacklist the folowing list of operators"
+            ],
+            "group": "operator options"
         }
     }
 }
