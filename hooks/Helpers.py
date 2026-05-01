@@ -19,35 +19,36 @@ def before_is_item_enabled(multiworld: MultiWorld, player: int, item:  dict[str,
     # Remove unwanted champions from the item pool
     if "6 star" in item["category"]:
         from ..Helpers import get_option_value
-        enabled_6_star = get_option_value(multiworld, player, "whitelist_6_star")
+        enabled_6_star = get_option_value(multiworld, player, "listing_6_star")
+        print(enabled_6_star)
         if get_option_value(multiworld, player, "blacklist_or_whitelist_operators"):
             return item["name"] in enabled_6_star  # True if they're in the yaml, false if they're not
         else: 
             return not (item["name"] in enabled_6_star)
     if "5 star" in item["category"]:
         from ..Helpers import get_option_value
-        enabled_5_star = get_option_value(multiworld, player, "whitelist_5_star")
+        enabled_5_star = get_option_value(multiworld, player, "listing_5_star")
         if get_option_value(multiworld, player, "blacklist_or_whitelist_operators"):
             return item["name"] in enabled_5_star # True if they're in the yaml, false if they're not
         else: 
             return not (item["name"] in enabled_5_star)
     if "4 star" in item["category"]:
         from ..Helpers import get_option_value
-        enabled_4_star = get_option_value(multiworld, player, "whitelist_4_star")
+        enabled_4_star = get_option_value(multiworld, player, "listing_4_star")
         if get_option_value(multiworld, player, "blacklist_or_whitelist_operators"):
             return item["name"] in enabled_4_star # True if they're in the yaml, false if they're not
         else: 
             return not (item["name"] in enabled_4_star)
     if "3 star" in item["category"]:
         from ..Helpers import get_option_value
-        enabled_3_star = get_option_value(multiworld, player, "whitelist_3_star")
+        enabled_3_star = get_option_value(multiworld, player, "listing_3_star")
         if get_option_value(multiworld, player, "blacklist_or_whitelist_operators"):
             return item["name"] in enabled_3_star # True if they're in the yaml, false if they're not
         else: 
             return not (item["name"] in enabled_3_star)
     if "low star" in item["category"]:
         from ..Helpers import get_option_value
-        enabled_low_star = get_option_value(multiworld, player, "whitelist_low_star")
+        enabled_low_star = get_option_value(multiworld, player, "listing_low_star")
         if get_option_value(multiworld, player, "blacklist_or_whitelist_operators"):
             return item["name"] in enabled_low_star # True if they're in the yaml, false if they're not
         else: 
