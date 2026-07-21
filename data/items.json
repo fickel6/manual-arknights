@@ -135,6 +135,17 @@
   },
   {
     "count": "1",
+    "name": "Ch'en the Dawntreak",
+    "category": [
+      "operator",
+      "6 star",
+      "alter",
+      "guard"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Chongyue",
     "category": [
       "operator",
@@ -368,6 +379,16 @@
   },
   {
     "count": "1",
+    "name": "Haruka",
+    "category": [
+      "operator",
+      "6 star",
+      "supporter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Hellagur",
     "category": [
       "operator",
@@ -412,6 +433,18 @@
     "category": [
       "operator",
       "6 star",
+      "defender"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Hoshiguma the Breacher",
+    "category": [
+      "operator",
+      "6 star",
+      "limited",
+      "alter",
       "defender"
     ],
     "useful": true
@@ -784,6 +817,16 @@
   },
   {
     "count": "1",
+    "name": "Pramanix the Prerita",
+    "category": [
+      "operator",
+      "6 star",
+      "caster"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Pozëmka",
     "category": [
       "operator",
@@ -1056,6 +1099,16 @@
   },
   {
     "count": "1",
+    "name": "Titi",
+    "category": [
+      "operator",
+      "6 star",
+      "medic"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Tragodia",
     "category": [
       "operator",
@@ -1151,6 +1204,17 @@
   },
   {
     "count": "1",
+    "name": "Wang",
+    "category": [
+      "operator",
+      "6 star",
+      "limited",
+      "specialist"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Weedy",
     "category": [
       "operator",
@@ -1189,28 +1253,6 @@
       "operator",
       "6 star",
       "guard"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Haruka",
-    "category": [
-      "operator",
-      "6 star",
-      "supporter"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Hoshiguma the Breacher",
-    "category": [
-      "operator",
-      "6 star",
-      "limited",
-      "alter",
-      "defender"
     ],
     "useful": true
   },
@@ -1291,7 +1333,7 @@
     "name": "Andreana",
     "category": [
       "operator",
-      "6 star",
+      "5 star",
       "sniper"
     ],
     "useful": true
@@ -1770,7 +1812,7 @@
     "name": "Flamebringer",
     "category": [
       "operator",
-      "6 star",
+      "5 star",
       "guard"
     ],
     "useful": true
@@ -1832,7 +1874,7 @@
     "name": "Glaucus",
     "category": [
       "operator",
-      "6 star",
+      "5 star",
       "supporter"
     ],
     "useful": true
@@ -2119,7 +2161,7 @@
     "name": "Laios",
     "category": [
       "operator",
-      "6 star",
+      "5 star",
       "guard"
     ],
     "useful": true
@@ -2548,7 +2590,7 @@
     "name": "Robin",
     "category": [
       "operator",
-      "6 star",
+      "5 star",
       "wellfare",
       "specialist"
     ],
