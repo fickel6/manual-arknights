@@ -53,6 +53,16 @@
   },
   {
     "count": "1",
+    "name": "Astgenne the Lightchaser",
+    "category": [
+      "character",
+      "6 star", 
+      "supporter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Bagpipe",
     "category": [
       "operator",
@@ -189,7 +199,7 @@
   },
   {
     "count": "1",
-    "name": "Dorothty",
+    "name": "Dorothy",
     "category": [
       "operator",
       "6 star",
@@ -723,6 +733,16 @@
   },
   {
     "count": "1",
+    "name": "Nasti",
+    "category": [
+      "operator",
+      "6 star",
+      "supporter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Nearl the Radiant Knight",
     "category": [
       "operator",
@@ -998,6 +1018,16 @@
       "operator",
       "6 star",
       "guard"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "SilverAsh the Reignfrost",
+    "category": [
+      "character",
+      "6 star",
+      "vanguard"
     ],
     "useful": true
   },
@@ -2187,7 +2217,7 @@
   },
   {
     "count": "1",
-    "name": "Kroos the Ken Glint",
+    "name": "Kroos the Keen Glint",
     "category": [
       "operator",
       "5 star",
