@@ -1108,6 +1108,16 @@
     "useful": true
   },
   {
+    "name": "Togawa Sakiko",
+    "count": 1,
+    "category": [
+      "6 star", 
+      "guard",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
     "count": "1",
     "name": "Tragodia",
     "category": [
@@ -1564,6 +1574,16 @@
   },
   {
     "count": "1",
+    "name": "Cairn",
+    "category": [
+      "operator",
+      "5 star",
+      "defender"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Cantabile",
     "category": [
       "operator",
@@ -1933,6 +1953,16 @@
   },
   {
     "count": "1",
+    "name": "Hadiya",
+    "category": [
+      "operator",
+      "5 star",
+      "guard"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Harmonie",
     "category": [
       "operator",
@@ -2068,6 +2098,16 @@
   {
     "count": "1",
     "name": "Jieyun",
+    "category": [
+      "operator",
+      "5 star",
+      "sniper"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ju",
     "category": [
       "operator",
       "5 star",
@@ -2332,6 +2372,16 @@
     "useful": true
   },
   {
+    "name": "Misumi Uika",
+    "count": 1,
+    "category": [
+      "5 star", 
+      "supporter",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
     "count": "1",
     "name": "Mitm",
     "category": [
@@ -2445,6 +2495,16 @@
   },
   {
     "count": "1",
+    "name": "Perfumer the Distilled",
+    "category": [
+      "operator",
+      "5 star",
+      "supporter"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Philae",
     "category": [
       "operator",
@@ -2516,7 +2576,7 @@
   },
   {
     "count": "1",
-    "name": "Ptillopsis",
+    "name": "Ptilopsis",
     "category": [
       "operator",
       "5 star",
@@ -2593,56 +2653,6 @@
       "5 star",
       "wellfare",
       "specialist"
-    ],
-    "useful": true
-  },
-  {
-    "name": "Togawa Sakiko",
-    "count": 1,
-    "category": [
-      "6 star", 
-      "guard",
-      "limited"
-    ],
-    "useful": true
-  },
-  {
-    "name": "Misumi Uika",
-    "count": 1,
-    "category": [
-      "5 star", 
-      "supporter",
-      "limited"
-    ],
-    "useful": true
-  },
-  {
-    "name": "Wakaba Mutsumi",
-    "count": 1,
-    "category": [
-      "5 star", 
-      "guard",
-      "limited"
-    ],
-    "useful": true
-  },
-  {
-    "name": "Yahata Umiri",
-    "count": 1,
-    "category": [
-      "5 star", 
-      "specialist",
-      "limited"
-    ],
-    "useful": true
-  },
-  {
-    "name": "Yutenji Nyamu",
-    "count": 1,
-    "category": [
-      "5 star", 
-      "guard",
-      "limited"
     ],
     "useful": true
   },
@@ -2769,11 +2779,31 @@
   },
   {
     "count": "1",
+    "name": "Skybox",
+    "category": [
+      "operator",
+      "5 star",
+      "sniper"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Skyfire",
     "category": [
       "operator",
       "5 star",
        "caster"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Snow Hunter",
+    "category": [
+      "operator",
+      "5 star",
+      "sniper"
     ],
     "useful": true
   },
@@ -2845,6 +2875,16 @@
       "5 star", 
       "limited",
       "guard"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Taraxacum",
+    "category": [
+      "operator",
+      "5 star",
+      "medic"
     ],
     "useful": true
   },
@@ -2961,11 +3001,31 @@
   },
   {
     "count": "1",
+    "name": "Varkáris",
+    "category": [
+      "operator",
+      "5 star",
+      "medic"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Vendela",
     "category": [
       "operator",
       "5 star",
       "medic"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Vetochki",
+    "category": [
+      "operator",
+      "5 star",
+      "defender"
     ],
     "useful": true
   },
@@ -2986,6 +3046,16 @@
       "operator",
       "5 star",
       "specialist"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Wakaba Mutsumi",
+    "count": 1,
+    "category": [
+      "5 star", 
+      "guard",
+      "limited"
     ],
     "useful": true
   },
@@ -3041,7 +3111,7 @@
   },
   {
     "count": "1",
-    "name": "Wilde mane",
+    "name": "Wild mane",
     "category": [
       "operator",
       "5 star",
@@ -3086,6 +3156,26 @@
       "operator",
       "5 star",
       "supporter"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Yahata Umiri",
+    "count": 1,
+    "category": [
+      "5 star", 
+      "specialist",
+      "limited"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Yutenji Nyamu",
+    "count": 1,
+    "category": [
+      "5 star", 
+      "guard",
+      "limited"
     ],
     "useful": true
   },
