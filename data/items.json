@@ -621,6 +621,16 @@
   },
   {
     "count": "1",
+    "name": "Mantra",
+    "category": [
+      "operator",
+      "6 star",
+      "caster"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Marcille",
     "category": [
       "operator",
@@ -3711,6 +3721,16 @@
   },
   {
     "count": "1",
+    "name": "Snegurochka",
+    "category": [
+      "operator",
+      "4 star",
+      "vanguard"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Sussurro",
     "category": [
       "operator",
@@ -4085,36 +4105,6 @@
     "category": [
       "operator",
       "low star",
-      "vanguard"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Mantra",
-    "category": [
-      "operator",
-      "6 star",
-      "caster"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Vetochki",
-    "category": [
-      "operator",
-      "5 star",
-      "Defender"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Snegurochka",
-    "category": [
-      "operator",
-      "4 star",
       "vanguard"
     ],
     "useful": true
