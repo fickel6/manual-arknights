@@ -21,60 +21,19 @@ def before_is_item_enabled(multiworld: MultiWorld, player: int, item:  dict[str,
     if "6 star" in item["category"]:
         enabled_6_star = get_option_value(multiworld, player, "listing_6_star")
         # print(enabled_6_star)
-        if get_option_value(multiworld, player, "blacklist_or_whitelist_operators"):
-            result = item["name"] in enabled_6_star # True if they're in the yaml, false if they're not, # 0 if not found
-            if result == 0:
-                #if the unit isn't found, just return true (saying the unit should be included) to guarantee that it gens. 
-                print("can't find the option")
-                return True 
-            return result  # True if they're in the yaml, false if they're not
-        else: 
-            return not (item["name"] in enabled_6_star)
+        return item["name"] in enabled_6_star if get_option_value(multiworld, player, "blacklist_or_whitelist_operators") else not item["name"] in enabled_6_star
     if "5 star" in item["category"]:
         enabled_5_star = get_option_value(multiworld, player, "listing_5_star")
-        if get_option_value(multiworld, player, "blacklist_or_whitelist_operators"):
-            result = item["name"] in enabled_5_star # True if they're in the yaml, false if they're not, # 0 if not found
-            if result == 0:
-                #if the unit isn't found, just return true (saying the unit should be included) to guarantee that it gens. 
-                print("can't find the option")
-                return True 
-            return result  # True if they're in the yaml, false if they're not
-        else: 
-            return not (item["name"] in enabled_5_star)
+        return item["name"] in enabled_5_star if get_option_value(multiworld, player, "blacklist_or_whitelist_operators") else not item["name"] in enabled_5_star
     if "4 star" in item["category"]:
         enabled_4_star = get_option_value(multiworld, player, "listing_4_star")
-        if get_option_value(multiworld, player, "blacklist_or_whitelist_operators"):
-            result = item["name"] in enabled_4_star # True if they're in the yaml, false if they're not, # 0 if not found
-            if result == 0:
-                #if the unit isn't found, just return true (saying the unit should be included) to guarantee that it gens. 
-                print("can't find the option")
-                return True 
-            return result  # True if they're in the yaml, false if they're not
-        else: 
-            return not (item["name"] in enabled_4_star)
+        return item["name"] in enabled_4_star if get_option_value(multiworld, player, "blacklist_or_whitelist_operators") else not item["name"] in enabled_4_star
     if "3 star" in item["category"]:
         enabled_3_star = get_option_value(multiworld, player, "listing_3_star")
-        if get_option_value(multiworld, player, "blacklist_or_whitelist_operators"):
-            result = item["name"] in enabled_3_star # True if they're in the yaml, false if they're not, # 0 if not found
-            if result == 0:
-                #if the unit isn't found, just return true (saying the unit should be included) to guarantee that it gens. 
-                print("can't find the option")
-                return True 
-            return result  # True if they're in the yaml, false if they're not
-        else: 
-            return not (item["name"] in enabled_3_star)
+        return item["name"] in enabled_3_star if get_option_value(multiworld, player, "blacklist_or_whitelist_operators") else not item["name"] in enabled_3_star
     if "low star" in item["category"]:
         enabled_low_star = get_option_value(multiworld, player, "listing_low_star")
-        if get_option_value(multiworld, player, "blacklist_or_whitelist_operators"):
-            result = item["name"] in enabled_low_star # True if they're in the yaml, false if they're not, # 0 if not found
-            if result == 0:
-                #if the unit isn't found, just return true (saying the unit should be included) to guarantee that it gens. 
-                print("can't find the option")
-                return True 
-            return result  # True if they're in the yaml, false if they're not
-        else: 
-            return not (item["name"] in enabled_low_star)
-
+        return item["name"] in enabled_low_star if get_option_value(multiworld, player, "blacklist_or_whitelist_operators") else not item["name"] in enabled_low_star
     return None
 
 
