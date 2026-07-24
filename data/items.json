@@ -145,7 +145,7 @@
   },
   {
     "count": "1",
-    "name": "Ch'en the Dawntreak",
+    "name": "Ch'en the Dawnstreak",
     "category": [
       "operator",
       "6 star",
@@ -282,7 +282,7 @@
   },
   {
     "count": "1",
-    "name": "exusiai the New Covenant",
+    "name": "Exusiai the New Covenant",
     "category": [
       "operator",
       "6 star", 
@@ -503,7 +503,7 @@
   },
   {
     "count": "1",
-    "name": "Kalt'tsit",
+    "name": "Kal'tsit",
     "category": [
       "operator",
       "6 star",
@@ -1470,7 +1470,7 @@
   },
   {
     "count": "1",
-    "name": "Ayerscape",
+    "name": "Ayerscarpe",
     "category": [
       "operator",
       "5 star",
@@ -1809,7 +1809,7 @@
   },
   {
     "count": "1",
-    "name": "executor",
+    "name": "Executor",
     "category": [
       "operator",
       "5 star",
@@ -2056,21 +2056,21 @@
   },
   {
     "count": "1",
-    "name": "Honeyberry",
-    "category": [
-      "operator",
-      "5 star",
-      "medic"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
     "name": "Highmore",
     "category": [
       "operator",
       "5 star",
       "guard"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Honeyberry",
+    "category": [
+      "operator",
+      "5 star",
+      "medic"
     ],
     "useful": true
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "count": "1",
-    "name": "Qeurcus",
+    "name": "Quercus",
     "category": [
       "operator",
       "5 star",
@@ -2940,7 +2940,7 @@
   },
   {
     "count": "1",
-    "name": "Tequilla",
+    "name": "Tequila",
     "category": [
       "operator",
       "5 star",
@@ -3141,7 +3141,7 @@
   },
   {
     "count": "1",
-    "name": "Wisperain",
+    "name": "Whisperain",
     "category": [
       "operator",
       "5 star",
@@ -3181,7 +3181,7 @@
   },
   {
     "count": "1",
-    "name": "Fulfenite",
+    "name": "Wulfenite",
     "category": [
       "operator",
       "5 star",
@@ -3581,7 +3581,7 @@
   },
   {
     "count": "1",
-    "name": "matterhorn",
+    "name": "Matterhorn",
     "category": [
       "operator",
       "4 star",
@@ -4041,6 +4041,16 @@
   },
   {
     "count": "1",
+    "name": "Yato",
+    "category": [
+      "operator",
+      "low star",
+      "vanguard"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "CONFESS-47",
     "category": [
       "operator",
@@ -4126,16 +4136,6 @@
       "operator",
       "low star",
       "supporter"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Yato",
-    "category": [
-      "operator",
-      "low star",
-      "vanguard"
     ],
     "useful": true
   },
