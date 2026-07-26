@@ -16,35 +16,35 @@
     "region": "is2",
     "requires": "|is2 key| AND |floor3 key is2| AND |floor2 key is2|",
     "hint_entrance": "clear 10 operations without leaks in a row in is3",
-    "category": "is2"
+    "category": ["is2", "perfect operation"]
   },
   {
     "name": "10 perfect operations is3",
     "region": "is3",
     "requires": "|floor3 unlock is3|",
     "hint_entrance": "clear 10 operations without leaks in a row in is3",
-    "category": "is3"
+    "category": ["is3", "perfect operation"]
   },
   {
     "name": "10 perfect operations is4",
     "region": "is4",
     "requires": "|is4 key| AND |floor3 key is4| AND |floor2 key is4|",
     "hint_entrance": "clear 10 operations without leaks in a row in is4",
-    "category": "is4"
+    "category": ["is4", "perfect operation"]
   },
   {
     "name": "10 perfect operations is5",
     "region": "is5",
     "requires": "|is5 key| AND |floor3 key is5| AND |floor2 key is5|",
     "hint_entrance": "clear 10 operations without leaks in a row in is5",
-    "category": "is5"
+    "category": ["is5", "perfect operation"]
   },
   {
     "name": "10 perfect operations is6",
     "region": "is6",
     "requires": "|is6 key| AND |floor3 key is6| AND |floor2 key is6|",
     "hint_entrance": "clear 10 operations without leaks in a row in is6",
-    "category": "is6"
+    "category": ["is6", "perfect operation"]
   },
   {
     "name": "floor1 is2",
